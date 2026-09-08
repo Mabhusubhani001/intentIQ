@@ -3,6 +3,9 @@ import json
 import time
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect
 from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
+from openai import OpenAI
+from dotenv import load_dotenv
 from inference_model1 import NewbieClassifier
 from model2_inference import IntentRiskMonitor
 
@@ -17,7 +20,93 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+class ChatRequest(BaseModel):
+    session_id: str
+    message: str
+
+# In-memory chat history: session_id -> list of messages
+chat_history = {}
+
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+load_dotenv(os.path.join(BASE_DIR, '..', '.env'))
+
+try:
+    gemini_client = OpenAI(
+        api_key=os.environ.get("GEMINI_API_KEY"),
+        base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
+    )
+except Exception as e:
+    print(f"Error initializing Gemini client: {e}")
+    gemini_client = None
+
+# --- OLLAMA CLIENT (Commented out for production demo) ---
+# try:
+#     ollama_client = OpenAI(
+#         base_url='http://localhost:11434/v1/',
+#         api_key='ollama'
+#     )
+# except Exception as e:
+#     print(f"Error initializing OpenAI client: {e}")
+#     ollama_client = None
+
+SYSTEM_PROMPT = """You are a helpful betting assistant for a sportsbook. 
+The user is a beginner and might need help navigating. Keep your responses concise and extremely easy to follow.
+The website has the following layout:
+- Left Sidebar: Contains a list of Sports (Football, Tennis, Basketball, Ice Hockey, Table Tennis, Volleyball, Darts, Snooker, Baseball, Handball, Rugby, Cricket, Esports).
+- Top Header: Contains Time Filters to switch between "Today", "Tomorrow", and "Outrights".
+- Main Content: Shows the matches for the selected sport and time filter.
+- Right Sidebar: Contains the BetSlip where the user's selected bets are collected before placing them.
+
+Here are a few examples of how you should respond:
+
+User: How do I bet on tennis?
+Assistant: It's very simple! First, click on "Tennis" in the Left Sidebar to view all Tennis matches. Then, just click on the odds for the player you think will win. Your selection will appear in the BetSlip on the right side of the screen!
+
+User: Where are the games for tomorrow?
+Assistant: You can find those by clicking the "Tomorrow" tab at the very top of your screen. That will show you all the matches scheduled for the next day for your currently selected sport!
+
+User: I clicked some odds, now what?
+Assistant: Great! Look at the right side of your screen — that's your BetSlip. You'll see your selected bets there. Just enter the amount you want to wager and click the "Place Bet" button at the bottom of the slip!
+"""
+
+@app.post("/api/chat")
+def chat_endpoint(req: ChatRequest):
+    if gemini_client is None:
+        return {"response": "Chatbot is currently unavailable."}
+        
+    # Initialize history if empty
+    if req.session_id not in chat_history:
+        chat_history[req.session_id] = [
+            {"role": "system", "content": SYSTEM_PROMPT}
+        ]
+        
+    # Append user message
+    chat_history[req.session_id].append({"role": "user", "content": req.message})
+    
+    try:
+        print(f"\n--- [Gemini] New Request from {req.session_id} ---")
+        print(f"[Gemini] User: {req.message}")
+        print(f"[Gemini] Sending request to Gemini (gemini-3.8-flash)...")
+        
+        start_time = time.time()
+        response = gemini_client.chat.completions.create(
+            model='gemini-3.8-flash',
+            messages=chat_history[req.session_id]
+        )
+        elapsed = time.time() - start_time
+        assistant_reply = response.choices[0].message.content
+        
+        print(f"[Gemini] Received response in {elapsed:.1f} seconds!")
+        print(f"[Gemini] Assistant: {assistant_reply[:100]}...\n----------------------------------")
+        
+        # Append assistant reply to history
+        chat_history[req.session_id].append({"role": "assistant", "content": assistant_reply})
+        
+        return {"response": assistant_reply}
+    except Exception as e:
+        print(f"[Gemini] ERROR: {e}")
+        return {"response": "Sorry, I'm having trouble connecting to my brain right now!"}
+
 MODEL1_PATH = os.path.join(BASE_DIR, "model1_discovery.txt")
 
 try:
