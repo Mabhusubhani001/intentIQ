@@ -1,0 +1,6567 @@
+{
+  "session_id": "session_mtq14kxo_5wmh1nq",
+  "label": "hesitant_checkout",
+  "session_started_at": "2026-09-06T16:31:51.804Z",
+  "metadata": {
+    "viewport_width": 1536,
+    "viewport_height": 826,
+    "device_pixel_ratio": 1.25,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "initial_url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan",
+    "hostname": "www.psk.hr",
+    "total_duration_ms": 67491,
+    "total_events": 655
+  },
+  "events": [
+    {
+      "t": 0,
+      "e": "session_start",
+      "x": 0,
+      "y": 0,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 4,
+      "e": "click",
+      "x": 1328,
+      "y": 780,
+      "sy": 0,
+      "z": "background",
+      "txt": "Stop",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 62,
+      "e": "mousemove",
+      "x": 1336,
+      "y": 777,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 119,
+      "e": "mousemove",
+      "x": 1467,
+      "y": 685,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 187,
+      "e": "mousemove",
+      "x": 1490,
+      "y": 346,
+      "sy": 0,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 244,
+      "e": "mousemove",
+      "x": 1104,
+      "y": 162,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 311,
+      "e": "mousemove",
+      "x": 100,
+      "y": 153,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 401,
+      "e": "mousemove",
+      "x": 0,
+      "y": 227,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 485,
+      "e": "mousemove",
+      "x": 297,
+      "y": 362,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 543,
+      "e": "mousemove",
+      "x": 527,
+      "y": 337,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 604,
+      "e": "mousemove",
+      "x": 547,
+      "y": 305,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 667,
+      "e": "mousemove",
+      "x": 559,
+      "y": 292,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 740,
+      "e": "mousemove",
+      "x": 567,
+      "y": 293,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 813,
+      "e": "mousemove",
+      "x": 563,
+      "y": 293,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 879,
+      "e": "mousemove",
+      "x": 524,
+      "y": 293,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 942,
+      "e": "mousemove",
+      "x": 314,
+      "y": 159,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1000,
+      "e": "mousemove",
+      "x": 0,
+      "y": 0,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1088,
+      "e": "mousemove",
+      "x": 11,
+      "y": 1,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1275,
+      "e": "mousemove",
+      "x": 170,
+      "y": 38,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1336,
+      "e": "mousemove",
+      "x": 258,
+      "y": 111,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1397,
+      "e": "mousemove",
+      "x": 406,
+      "y": 226,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1448,
+      "e": "mousemove",
+      "x": 471,
+      "y": 265,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1503,
+      "e": "mousemove",
+      "x": 479,
+      "y": 269,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1560,
+      "e": "mousemove",
+      "x": 508,
+      "y": 275,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1622,
+      "e": "mousemove",
+      "x": 556,
+      "y": 292,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1684,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 100,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1956,
+      "e": "mousemove",
+      "x": 558,
+      "y": 293,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2022,
+      "e": "mousemove",
+      "x": 548,
+      "y": 303,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2084,
+      "e": "mousemove",
+      "x": 505,
+      "y": 337,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2138,
+      "e": "mousemove",
+      "x": 456,
+      "y": 349,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2199,
+      "e": "mousemove",
+      "x": 382,
+      "y": 355,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2263,
+      "e": "mousemove",
+      "x": 380,
+      "y": 353,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2323,
+      "e": "mousemove",
+      "x": 423,
+      "y": 319,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2429,
+      "e": "mousemove",
+      "x": 428,
+      "y": 311,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2480,
+      "e": "mousemove",
+      "x": 409,
+      "y": 314,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2537,
+      "e": "mousemove",
+      "x": 385,
+      "y": 315,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2592,
+      "e": "mousemove",
+      "x": 386,
+      "y": 307,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2650,
+      "e": "mousemove",
+      "x": 464,
+      "y": 289,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2705,
+      "e": "mousemove",
+      "x": 691,
+      "y": 286,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2759,
+      "e": "mousemove",
+      "x": 833,
+      "y": 286,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2831,
+      "e": "mousemove",
+      "x": 885,
+      "y": 286,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2885,
+      "e": "mousemove",
+      "x": 884,
+      "y": 285,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2945,
+      "e": "mousemove",
+      "x": 792,
+      "y": 265,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2999,
+      "e": "mousemove",
+      "x": 659,
+      "y": 239,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3059,
+      "e": "mousemove",
+      "x": 662,
+      "y": 237,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3115,
+      "e": "mousemove",
+      "x": 811,
+      "y": 237,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3170,
+      "e": "mousemove",
+      "x": 960,
+      "y": 237,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3223,
+      "e": "mousemove",
+      "x": 1004,
+      "y": 242,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3283,
+      "e": "mousemove",
+      "x": 1019,
+      "y": 252,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3340,
+      "e": "mousemove",
+      "x": 1019,
+      "y": 264,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3394,
+      "e": "mousemove",
+      "x": 1008,
+      "y": 266,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3447,
+      "e": "mousemove",
+      "x": 973,
+      "y": 259,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3504,
+      "e": "mousemove",
+      "x": 693,
+      "y": 224,
+      "sy": 300,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3562,
+      "e": "mousemove",
+      "x": 432,
+      "y": 224,
+      "sy": 300,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3615,
+      "e": "mousemove",
+      "x": 404,
+      "y": 227,
+      "sy": 300,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3667,
+      "e": "mousemove",
+      "x": 396,
+      "y": 231,
+      "sy": 300,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3719,
+      "e": "mousemove",
+      "x": 396,
+      "y": 234,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3817,
+      "e": "mousemove",
+      "x": 397,
+      "y": 237,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3874,
+      "e": "mousemove",
+      "x": 399,
+      "y": 237,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3925,
+      "e": "mousemove",
+      "x": 413,
+      "y": 233,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3982,
+      "e": "mousemove",
+      "x": 442,
+      "y": 222,
+      "sy": 300,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 4227,
+      "e": "click",
+      "x": 448,
+      "y": 221,
+      "sy": 300,
+      "z": "top-nav",
+      "txt": "JUVENTUS - AC MILAN",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 4627,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 4648,
+      "e": "page_view",
+      "x": 0,
+      "y": 0,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 4796,
+      "e": "mousemove",
+      "x": 447,
+      "y": 221,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 4872,
+      "e": "mousemove",
+      "x": 441,
+      "y": 213,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 5048,
+      "e": "mousemove",
+      "x": 440,
+      "y": 209,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 5119,
+      "e": "mousemove",
+      "x": 443,
+      "y": 209,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 5197,
+      "e": "mousemove",
+      "x": 449,
+      "y": 209,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 5252,
+      "e": "mousemove",
+      "x": 457,
+      "y": 213,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 5544,
+      "e": "mousemove",
+      "x": 504,
+      "y": 240,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 5715,
+      "e": "mousemove",
+      "x": 516,
+      "y": 341,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 5768,
+      "e": "mousemove",
+      "x": 533,
+      "y": 381,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 5909,
+      "e": "mousemove",
+      "x": 744,
+      "y": 381,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 5995,
+      "e": "mousemove",
+      "x": 764,
+      "y": 357,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 6053,
+      "e": "mousemove",
+      "x": 707,
+      "y": 321,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 6166,
+      "e": "mousemove",
+      "x": 596,
+      "y": 297,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 6315,
+      "e": "mousemove",
+      "x": 588,
+      "y": 299,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 6427,
+      "e": "mousemove",
+      "x": 590,
+      "y": 364,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 6485,
+      "e": "mousemove",
+      "x": 622,
+      "y": 364,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 6964,
+      "e": "mousemove",
+      "x": 622,
+      "y": 357,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 7111,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 200,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 7438,
+      "e": "mousemove",
+      "x": 621,
+      "y": 357,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 7502,
+      "e": "mousemove",
+      "x": 618,
+      "y": 357,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 7557,
+      "e": "mousemove",
+      "x": 614,
+      "y": 356,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 7633,
+      "e": "mousemove",
+      "x": 612,
+      "y": 352,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 7708,
+      "e": "mousemove",
+      "x": 610,
+      "y": 348,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 7761,
+      "e": "mousemove",
+      "x": 595,
+      "y": 344,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 7826,
+      "e": "mousemove",
+      "x": 502,
+      "y": 344,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 7888,
+      "e": "mousemove",
+      "x": 417,
+      "y": 355,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 7945,
+      "e": "mousemove",
+      "x": 375,
+      "y": 378,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 8009,
+      "e": "mousemove",
+      "x": 357,
+      "y": 400,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 8064,
+      "e": "mousemove",
+      "x": 363,
+      "y": 408,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 8124,
+      "e": "mousemove",
+      "x": 452,
+      "y": 408,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 8185,
+      "e": "mousemove",
+      "x": 588,
+      "y": 389,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 8240,
+      "e": "mousemove",
+      "x": 656,
+      "y": 361,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 8317,
+      "e": "mousemove",
+      "x": 675,
+      "y": 351,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 8386,
+      "e": "mousemove",
+      "x": 673,
+      "y": 351,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 8439,
+      "e": "mousemove",
+      "x": 658,
+      "y": 351,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 8494,
+      "e": "mousemove",
+      "x": 624,
+      "y": 351,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 8567,
+      "e": "mousemove",
+      "x": 606,
+      "y": 351,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 8622,
+      "e": "mousemove",
+      "x": 604,
+      "y": 352,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 8677,
+      "e": "mousemove",
+      "x": 605,
+      "y": 359,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 8732,
+      "e": "mousemove",
+      "x": 622,
+      "y": 369,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 8785,
+      "e": "mousemove",
+      "x": 685,
+      "y": 381,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 8845,
+      "e": "mousemove",
+      "x": 773,
+      "y": 389,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 8900,
+      "e": "mousemove",
+      "x": 796,
+      "y": 389,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 8976,
+      "e": "mousemove",
+      "x": 795,
+      "y": 389,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 9028,
+      "e": "mousemove",
+      "x": 753,
+      "y": 389,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 9083,
+      "e": "mousemove",
+      "x": 628,
+      "y": 389,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 9141,
+      "e": "mousemove",
+      "x": 508,
+      "y": 392,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 9197,
+      "e": "mousemove",
+      "x": 452,
+      "y": 403,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 9258,
+      "e": "mousemove",
+      "x": 408,
+      "y": 413,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 9310,
+      "e": "mousemove",
+      "x": 396,
+      "y": 420,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 9373,
+      "e": "mousemove",
+      "x": 395,
+      "y": 429,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 9428,
+      "e": "mousemove",
+      "x": 399,
+      "y": 433,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 9478,
+      "e": "mousemove",
+      "x": 400,
+      "y": 433,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 9686,
+      "e": "mousemove",
+      "x": 402,
+      "y": 433,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 9736,
+      "e": "mousemove",
+      "x": 404,
+      "y": 433,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 9789,
+      "e": "mousemove",
+      "x": 413,
+      "y": 435,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 9846,
+      "e": "mousemove",
+      "x": 423,
+      "y": 437,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 9935,
+      "e": "mousemove",
+      "x": 420,
+      "y": 437,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 9990,
+      "e": "mousemove",
+      "x": 401,
+      "y": 441,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 10073,
+      "e": "mousemove",
+      "x": 400,
+      "y": 441,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 10126,
+      "e": "mousemove",
+      "x": 433,
+      "y": 437,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 10228,
+      "e": "mousemove",
+      "x": 444,
+      "y": 437,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 10280,
+      "e": "mousemove",
+      "x": 434,
+      "y": 437,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 10366,
+      "e": "mousemove",
+      "x": 432,
+      "y": 437,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 10424,
+      "e": "mousemove",
+      "x": 498,
+      "y": 437,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 10479,
+      "e": "mousemove",
+      "x": 617,
+      "y": 437,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 10533,
+      "e": "mousemove",
+      "x": 633,
+      "y": 437,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 10622,
+      "e": "mousemove",
+      "x": 635,
+      "y": 437,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 10686,
+      "e": "mousemove",
+      "x": 619,
+      "y": 437,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 10740,
+      "e": "mousemove",
+      "x": 620,
+      "y": 439,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 10798,
+      "e": "mousemove",
+      "x": 732,
+      "y": 439,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 10854,
+      "e": "mousemove",
+      "x": 871,
+      "y": 439,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 10942,
+      "e": "mousemove",
+      "x": 880,
+      "y": 440,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 11013,
+      "e": "mousemove",
+      "x": 877,
+      "y": 441,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 11069,
+      "e": "mousemove",
+      "x": 916,
+      "y": 441,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 11125,
+      "e": "mousemove",
+      "x": 984,
+      "y": 441,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 11181,
+      "e": "mousemove",
+      "x": 977,
+      "y": 442,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 11237,
+      "e": "mousemove",
+      "x": 886,
+      "y": 461,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 11292,
+      "e": "mousemove",
+      "x": 750,
+      "y": 491,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 11352,
+      "e": "mousemove",
+      "x": 718,
+      "y": 507,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 11412,
+      "e": "mousemove",
+      "x": 717,
+      "y": 508,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 11469,
+      "e": "mousemove",
+      "x": 717,
+      "y": 506,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 11533,
+      "e": "mousemove",
+      "x": 719,
+      "y": 503,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 11830,
+      "e": "mousemove",
+      "x": 718,
+      "y": 501,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 11887,
+      "e": "mousemove",
+      "x": 676,
+      "y": 501,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 11942,
+      "e": "mousemove",
+      "x": 566,
+      "y": 501,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 11997,
+      "e": "mousemove",
+      "x": 480,
+      "y": 501,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 12055,
+      "e": "mousemove",
+      "x": 454,
+      "y": 509,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 12134,
+      "e": "mousemove",
+      "x": 451,
+      "y": 518,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 12188,
+      "e": "mousemove",
+      "x": 461,
+      "y": 518,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 12293,
+      "e": "mousemove",
+      "x": 461,
+      "y": 518,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 12353,
+      "e": "mousemove",
+      "x": 416,
+      "y": 515,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 12407,
+      "e": "mousemove",
+      "x": 363,
+      "y": 515,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 12468,
+      "e": "mousemove",
+      "x": 347,
+      "y": 515,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 12525,
+      "e": "mousemove",
+      "x": 372,
+      "y": 517,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 12582,
+      "e": "mousemove",
+      "x": 556,
+      "y": 517,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 12638,
+      "e": "mousemove",
+      "x": 712,
+      "y": 517,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 12733,
+      "e": "mousemove",
+      "x": 716,
+      "y": 518,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 12783,
+      "e": "mousemove",
+      "x": 699,
+      "y": 518,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 12837,
+      "e": "mousemove",
+      "x": 645,
+      "y": 514,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 12893,
+      "e": "mousemove",
+      "x": 552,
+      "y": 489,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 12949,
+      "e": "mousemove",
+      "x": 486,
+      "y": 464,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 13005,
+      "e": "mousemove",
+      "x": 478,
+      "y": 455,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 13060,
+      "e": "mousemove",
+      "x": 466,
+      "y": 425,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 13116,
+      "e": "mousemove",
+      "x": 464,
+      "y": 416,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 13189,
+      "e": "mousemove",
+      "x": 464,
+      "y": 415,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 13245,
+      "e": "mousemove",
+      "x": 470,
+      "y": 416,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 13304,
+      "e": "mousemove",
+      "x": 487,
+      "y": 423,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 13358,
+      "e": "mousemove",
+      "x": 504,
+      "y": 429,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 13564,
+      "e": "mousemove",
+      "x": 504,
+      "y": 429,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 13622,
+      "e": "mousemove",
+      "x": 502,
+      "y": 429,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 14175,
+      "e": "mousemove",
+      "x": 500,
+      "y": 428,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 16838,
+      "e": "mousemove",
+      "x": 502,
+      "y": 429,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 16889,
+      "e": "mousemove",
+      "x": 512,
+      "y": 433,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 16949,
+      "e": "mousemove",
+      "x": 521,
+      "y": 433,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 17062,
+      "e": "mousemove",
+      "x": 525,
+      "y": 432,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 17117,
+      "e": "mousemove",
+      "x": 512,
+      "y": 432,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 17191,
+      "e": "mousemove",
+      "x": 501,
+      "y": 434,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 19725,
+      "e": "mousemove",
+      "x": 502,
+      "y": 437,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 20535,
+      "e": "mousemove",
+      "x": 503,
+      "y": 437,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 20590,
+      "e": "mousemove",
+      "x": 504,
+      "y": 434,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 20645,
+      "e": "mousemove",
+      "x": 505,
+      "y": 433,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 20805,
+      "e": "mousemove",
+      "x": 509,
+      "y": 441,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 20902,
+      "e": "mousemove",
+      "x": 507,
+      "y": 442,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 21440,
+      "e": "mousemove",
+      "x": 506,
+      "y": 442,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 21499,
+      "e": "mousemove",
+      "x": 493,
+      "y": 442,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 21558,
+      "e": "mousemove",
+      "x": 471,
+      "y": 439,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 21700,
+      "e": "mousemove",
+      "x": 469,
+      "y": 438,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 21782,
+      "e": "mousemove",
+      "x": 467,
+      "y": 437,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 21839,
+      "e": "mousemove",
+      "x": 465,
+      "y": 435,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 21949,
+      "e": "mousemove",
+      "x": 465,
+      "y": 434,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 22007,
+      "e": "mousemove",
+      "x": 488,
+      "y": 421,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 22064,
+      "e": "mousemove",
+      "x": 612,
+      "y": 394,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 22117,
+      "e": "mousemove",
+      "x": 776,
+      "y": 354,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 22172,
+      "e": "mousemove",
+      "x": 916,
+      "y": 298,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 22228,
+      "e": "mousemove",
+      "x": 1019,
+      "y": 259,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 22285,
+      "e": "mousemove",
+      "x": 1084,
+      "y": 245,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 22335,
+      "e": "mousemove",
+      "x": 1124,
+      "y": 244,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 22392,
+      "e": "mousemove",
+      "x": 1184,
+      "y": 244,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 22447,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 245,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 22502,
+      "e": "mousemove",
+      "x": 1307,
+      "y": 269,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 22558,
+      "e": "mousemove",
+      "x": 1334,
+      "y": 333,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 22614,
+      "e": "mousemove",
+      "x": 1350,
+      "y": 361,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 22678,
+      "e": "mousemove",
+      "x": 1355,
+      "y": 369,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 22809,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 200,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 23161,
+      "e": "mousemove",
+      "x": 1355,
+      "y": 370,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 23221,
+      "e": "mousemove",
+      "x": 1352,
+      "y": 397,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 23275,
+      "e": "mousemove",
+      "x": 1360,
+      "y": 435,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 23325,
+      "e": "mousemove",
+      "x": 1363,
+      "y": 449,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 23378,
+      "e": "mousemove",
+      "x": 1360,
+      "y": 455,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 23430,
+      "e": "mousemove",
+      "x": 1347,
+      "y": 475,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 23481,
+      "e": "mousemove",
+      "x": 1332,
+      "y": 501,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 23535,
+      "e": "mousemove",
+      "x": 1333,
+      "y": 511,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 23590,
+      "e": "mousemove",
+      "x": 1386,
+      "y": 506,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 23644,
+      "e": "mousemove",
+      "x": 1440,
+      "y": 492,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 23700,
+      "e": "mousemove",
+      "x": 1448,
+      "y": 471,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 23758,
+      "e": "mousemove",
+      "x": 1430,
+      "y": 419,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 23808,
+      "e": "mousemove",
+      "x": 1375,
+      "y": 392,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 23863,
+      "e": "mousemove",
+      "x": 1299,
+      "y": 405,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 23917,
+      "e": "mousemove",
+      "x": 1235,
+      "y": 446,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 23972,
+      "e": "mousemove",
+      "x": 1202,
+      "y": 469,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 24032,
+      "e": "mousemove",
+      "x": 1246,
+      "y": 492,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 24085,
+      "e": "mousemove",
+      "x": 1310,
+      "y": 494,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 24141,
+      "e": "mousemove",
+      "x": 1346,
+      "y": 477,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 24196,
+      "e": "mousemove",
+      "x": 1356,
+      "y": 455,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 24247,
+      "e": "mousemove",
+      "x": 1352,
+      "y": 438,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 24300,
+      "e": "mousemove",
+      "x": 1336,
+      "y": 417,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 24353,
+      "e": "mousemove",
+      "x": 1328,
+      "y": 409,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 24408,
+      "e": "mousemove",
+      "x": 1323,
+      "y": 403,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 24463,
+      "e": "mousemove",
+      "x": 1296,
+      "y": 352,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 24517,
+      "e": "mousemove",
+      "x": 1292,
+      "y": 329,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 24578,
+      "e": "mousemove",
+      "x": 1295,
+      "y": 318,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 24662,
+      "e": "mousemove",
+      "x": 1298,
+      "y": 317,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 24716,
+      "e": "mousemove",
+      "x": 1301,
+      "y": 316,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 24790,
+      "e": "mousemove",
+      "x": 1306,
+      "y": 313,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 24845,
+      "e": "mousemove",
+      "x": 1312,
+      "y": 309,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 24901,
+      "e": "mousemove",
+      "x": 1320,
+      "y": 301,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 24957,
+      "e": "mousemove",
+      "x": 1328,
+      "y": 293,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 25021,
+      "e": "mousemove",
+      "x": 1332,
+      "y": 286,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 25078,
+      "e": "mousemove",
+      "x": 1332,
+      "y": 284,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 25130,
+      "e": "mousemove",
+      "x": 1330,
+      "y": 266,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 25184,
+      "e": "mousemove",
+      "x": 1330,
+      "y": 241,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 25237,
+      "e": "mousemove",
+      "x": 1328,
+      "y": 220,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 25287,
+      "e": "mousemove",
+      "x": 1327,
+      "y": 214,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 25350,
+      "e": "mousemove",
+      "x": 1326,
+      "y": 214,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 25409,
+      "e": "mousemove",
+      "x": 1323,
+      "y": 212,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 25464,
+      "e": "mousemove",
+      "x": 1304,
+      "y": 210,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 25517,
+      "e": "mousemove",
+      "x": 1282,
+      "y": 217,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 25581,
+      "e": "mousemove",
+      "x": 1273,
+      "y": 230,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 25681,
+      "e": "mousemove",
+      "x": 1271,
+      "y": 232,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 25781,
+      "e": "mousemove",
+      "x": 1271,
+      "y": 233,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 25837,
+      "e": "mousemove",
+      "x": 1328,
+      "y": 245,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 25887,
+      "e": "mousemove",
+      "x": 1379,
+      "y": 245,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 25942,
+      "e": "mousemove",
+      "x": 1381,
+      "y": 245,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 26002,
+      "e": "mousemove",
+      "x": 1346,
+      "y": 265,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 26055,
+      "e": "mousemove",
+      "x": 1291,
+      "y": 287,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 26118,
+      "e": "mousemove",
+      "x": 1283,
+      "y": 292,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 26174,
+      "e": "mousemove",
+      "x": 1284,
+      "y": 301,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 26231,
+      "e": "mousemove",
+      "x": 1320,
+      "y": 317,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 26286,
+      "e": "mousemove",
+      "x": 1363,
+      "y": 324,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 26349,
+      "e": "mousemove",
+      "x": 1363,
+      "y": 325,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 26405,
+      "e": "mousemove",
+      "x": 1320,
+      "y": 342,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 26461,
+      "e": "mousemove",
+      "x": 1282,
+      "y": 365,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 26517,
+      "e": "mousemove",
+      "x": 1280,
+      "y": 372,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 26578,
+      "e": "mousemove",
+      "x": 1292,
+      "y": 379,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 26630,
+      "e": "mousemove",
+      "x": 1320,
+      "y": 380,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 26687,
+      "e": "mousemove",
+      "x": 1339,
+      "y": 379,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 26785,
+      "e": "mousemove",
+      "x": 1342,
+      "y": 376,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 26839,
+      "e": "mousemove",
+      "x": 1304,
+      "y": 391,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 26893,
+      "e": "mousemove",
+      "x": 1262,
+      "y": 422,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 26947,
+      "e": "mousemove",
+      "x": 1257,
+      "y": 432,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 27005,
+      "e": "mousemove",
+      "x": 1276,
+      "y": 437,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 27055,
+      "e": "mousemove",
+      "x": 1333,
+      "y": 435,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 27109,
+      "e": "mousemove",
+      "x": 1368,
+      "y": 427,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 27174,
+      "e": "mousemove",
+      "x": 1368,
+      "y": 426,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 27233,
+      "e": "mousemove",
+      "x": 1337,
+      "y": 438,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 27286,
+      "e": "mousemove",
+      "x": 1310,
+      "y": 461,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 27340,
+      "e": "mousemove",
+      "x": 1304,
+      "y": 477,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 27402,
+      "e": "mousemove",
+      "x": 1312,
+      "y": 487,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 27456,
+      "e": "mousemove",
+      "x": 1332,
+      "y": 487,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 27512,
+      "e": "mousemove",
+      "x": 1372,
+      "y": 487,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 27565,
+      "e": "mousemove",
+      "x": 1404,
+      "y": 484,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 27621,
+      "e": "mousemove",
+      "x": 1433,
+      "y": 478,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 27687,
+      "e": "mousemove",
+      "x": 1445,
+      "y": 477,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 27813,
+      "e": "mousemove",
+      "x": 1452,
+      "y": 476,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 27869,
+      "e": "mousemove",
+      "x": 1420,
+      "y": 493,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 27929,
+      "e": "mousemove",
+      "x": 1367,
+      "y": 514,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 27984,
+      "e": "mousemove",
+      "x": 1332,
+      "y": 529,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 28044,
+      "e": "mousemove",
+      "x": 1316,
+      "y": 533,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 28245,
+      "e": "mousemove",
+      "x": 1313,
+      "y": 533,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 28301,
+      "e": "mousemove",
+      "x": 1308,
+      "y": 533,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 28357,
+      "e": "mousemove",
+      "x": 1298,
+      "y": 533,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 28548,
+      "e": "mousemove",
+      "x": 1298,
+      "y": 533,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 28605,
+      "e": "mousemove",
+      "x": 1316,
+      "y": 533,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 28662,
+      "e": "mousemove",
+      "x": 1339,
+      "y": 533,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 28717,
+      "e": "mousemove",
+      "x": 1354,
+      "y": 533,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 28778,
+      "e": "mousemove",
+      "x": 1365,
+      "y": 532,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 28832,
+      "e": "mousemove",
+      "x": 1379,
+      "y": 529,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 29405,
+      "e": "mousemove",
+      "x": 1380,
+      "y": 529,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 29457,
+      "e": "mousemove",
+      "x": 1361,
+      "y": 529,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 29516,
+      "e": "mousemove",
+      "x": 1326,
+      "y": 529,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 29566,
+      "e": "mousemove",
+      "x": 1311,
+      "y": 529,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 29681,
+      "e": "mousemove",
+      "x": 1303,
+      "y": 529,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 29735,
+      "e": "mousemove",
+      "x": 1298,
+      "y": 529,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 29796,
+      "e": "mousemove",
+      "x": 1293,
+      "y": 529,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 29862,
+      "e": "mousemove",
+      "x": 1284,
+      "y": 529,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 30101,
+      "e": "mousemove",
+      "x": 1282,
+      "y": 530,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 30154,
+      "e": "mousemove",
+      "x": 1263,
+      "y": 530,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 31582,
+      "e": "mousemove",
+      "x": 1249,
+      "y": 530,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 31687,
+      "e": "click",
+      "x": 1249,
+      "y": 530,
+      "sy": 200,
+      "z": "betslip",
+      "txt": "+ 3,00",
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 32189,
+      "e": "mousemove",
+      "x": 1250,
+      "y": 530,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 32245,
+      "e": "mousemove",
+      "x": 1269,
+      "y": 530,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 32335,
+      "e": "mousemove",
+      "x": 1296,
+      "y": 530,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 32388,
+      "e": "mousemove",
+      "x": 1318,
+      "y": 529,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 32449,
+      "e": "mousemove",
+      "x": 1329,
+      "y": 527,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 32504,
+      "e": "mousemove",
+      "x": 1334,
+      "y": 525,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 32564,
+      "e": "mousemove",
+      "x": 1339,
+      "y": 522,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 32631,
+      "e": "mousemove",
+      "x": 1340,
+      "y": 519,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 32701,
+      "e": "mousemove",
+      "x": 1340,
+      "y": 512,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 32764,
+      "e": "mousemove",
+      "x": 1339,
+      "y": 509,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 32820,
+      "e": "mousemove",
+      "x": 1334,
+      "y": 509,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 32877,
+      "e": "mousemove",
+      "x": 1324,
+      "y": 509,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 32931,
+      "e": "mousemove",
+      "x": 1311,
+      "y": 513,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 32982,
+      "e": "mousemove",
+      "x": 1297,
+      "y": 518,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 33036,
+      "e": "mousemove",
+      "x": 1289,
+      "y": 525,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 33097,
+      "e": "mousemove",
+      "x": 1290,
+      "y": 530,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 33153,
+      "e": "mousemove",
+      "x": 1293,
+      "y": 532,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 33207,
+      "e": "mousemove",
+      "x": 1298,
+      "y": 532,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 33261,
+      "e": "mousemove",
+      "x": 1309,
+      "y": 529,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 33854,
+      "e": "mousemove",
+      "x": 1311,
+      "y": 529,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 33950,
+      "e": "mousemove",
+      "x": 1313,
+      "y": 529,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 34046,
+      "e": "mousemove",
+      "x": 1316,
+      "y": 529,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 35906,
+      "e": "click",
+      "x": 1316,
+      "y": 529,
+      "sy": 200,
+      "z": "betslip",
+      "txt": "+ 5,00",
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 36367,
+      "e": "mousemove",
+      "x": 1317,
+      "y": 529,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 36421,
+      "e": "mousemove",
+      "x": 1323,
+      "y": 526,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 36482,
+      "e": "mousemove",
+      "x": 1331,
+      "y": 522,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 36549,
+      "e": "mousemove",
+      "x": 1332,
+      "y": 521,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 36636,
+      "e": "mousemove",
+      "x": 1328,
+      "y": 520,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 36696,
+      "e": "mousemove",
+      "x": 1304,
+      "y": 520,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 36751,
+      "e": "mousemove",
+      "x": 1280,
+      "y": 520,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 36804,
+      "e": "mousemove",
+      "x": 1265,
+      "y": 520,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 36865,
+      "e": "mousemove",
+      "x": 1252,
+      "y": 520,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 37096,
+      "e": "mousemove",
+      "x": 1245,
+      "y": 520,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 37150,
+      "e": "mousemove",
+      "x": 1258,
+      "y": 520,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 37206,
+      "e": "mousemove",
+      "x": 1276,
+      "y": 520,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 37265,
+      "e": "mousemove",
+      "x": 1284,
+      "y": 521,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 37374,
+      "e": "mousemove",
+      "x": 1287,
+      "y": 522,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 37429,
+      "e": "mousemove",
+      "x": 1273,
+      "y": 522,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 37484,
+      "e": "mousemove",
+      "x": 1253,
+      "y": 522,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 37563,
+      "e": "mousemove",
+      "x": 1250,
+      "y": 522,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 37969,
+      "e": "mousemove",
+      "x": 1250,
+      "y": 523,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 38049,
+      "e": "click",
+      "x": 1250,
+      "y": 523,
+      "sy": 200,
+      "z": "betslip",
+      "txt": "+ 3,00",
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 38051,
+      "e": "mousemove",
+      "x": 1250,
+      "y": 523,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 38637,
+      "e": "mousemove",
+      "x": 1250,
+      "y": 524,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 38941,
+      "e": "mousemove",
+      "x": 1251,
+      "y": 524,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 39053,
+      "e": "mousemove",
+      "x": 1251,
+      "y": 523,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 39254,
+      "e": "mousemove",
+      "x": 1253,
+      "y": 522,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 39318,
+      "e": "mousemove",
+      "x": 1254,
+      "y": 522,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 39374,
+      "e": "mousemove",
+      "x": 1267,
+      "y": 524,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 39435,
+      "e": "mousemove",
+      "x": 1286,
+      "y": 524,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 39614,
+      "e": "mousemove",
+      "x": 1287,
+      "y": 524,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 39694,
+      "e": "mousemove",
+      "x": 1285,
+      "y": 525,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 39744,
+      "e": "mousemove",
+      "x": 1286,
+      "y": 526,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 39799,
+      "e": "mousemove",
+      "x": 1300,
+      "y": 526,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 39920,
+      "e": "mousemove",
+      "x": 1303,
+      "y": 526,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 39974,
+      "e": "mousemove",
+      "x": 1294,
+      "y": 527,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 40049,
+      "e": "mousemove",
+      "x": 1291,
+      "y": 528,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 40108,
+      "e": "mousemove",
+      "x": 1304,
+      "y": 527,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 40199,
+      "e": "mousemove",
+      "x": 1315,
+      "y": 525,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 40253,
+      "e": "mousemove",
+      "x": 1293,
+      "y": 525,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 40353,
+      "e": "mousemove",
+      "x": 1295,
+      "y": 525,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 40411,
+      "e": "mousemove",
+      "x": 1312,
+      "y": 524,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 41685,
+      "e": "click",
+      "x": 1313,
+      "y": 524,
+      "sy": 200,
+      "z": "betslip",
+      "txt": "+ 5,00",
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 41981,
+      "e": "mousemove",
+      "x": 1314,
+      "y": 524,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 42068,
+      "e": "mousemove",
+      "x": 1321,
+      "y": 523,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 42165,
+      "e": "mousemove",
+      "x": 1324,
+      "y": 520,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 42217,
+      "e": "mousemove",
+      "x": 1324,
+      "y": 515,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 42271,
+      "e": "mousemove",
+      "x": 1292,
+      "y": 501,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 42326,
+      "e": "mousemove",
+      "x": 1264,
+      "y": 501,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 42380,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 502,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 42435,
+      "e": "mousemove",
+      "x": 1242,
+      "y": 509,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 42490,
+      "e": "mousemove",
+      "x": 1237,
+      "y": 517,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 42544,
+      "e": "mousemove",
+      "x": 1238,
+      "y": 520,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 42598,
+      "e": "mousemove",
+      "x": 1274,
+      "y": 522,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 42653,
+      "e": "mousemove",
+      "x": 1320,
+      "y": 517,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 42714,
+      "e": "mousemove",
+      "x": 1329,
+      "y": 515,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 42884,
+      "e": "mousemove",
+      "x": 1330,
+      "y": 513,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 42940,
+      "e": "mousemove",
+      "x": 1293,
+      "y": 513,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 42996,
+      "e": "mousemove",
+      "x": 1280,
+      "y": 517,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 43057,
+      "e": "mousemove",
+      "x": 1277,
+      "y": 518,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 43120,
+      "e": "mousemove",
+      "x": 1279,
+      "y": 520,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 43174,
+      "e": "mousemove",
+      "x": 1312,
+      "y": 520,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 43265,
+      "e": "mousemove",
+      "x": 1317,
+      "y": 520,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 43317,
+      "e": "mousemove",
+      "x": 1282,
+      "y": 520,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 43368,
+      "e": "mousemove",
+      "x": 1266,
+      "y": 520,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 43450,
+      "e": "mousemove",
+      "x": 1265,
+      "y": 520,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 43696,
+      "e": "click",
+      "x": 1265,
+      "y": 520,
+      "sy": 200,
+      "z": "betslip",
+      "txt": "+ 3,00",
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 43853,
+      "e": "mousemove",
+      "x": 1265,
+      "y": 519,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 43909,
+      "e": "mousemove",
+      "x": 1305,
+      "y": 505,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 43970,
+      "e": "mousemove",
+      "x": 1348,
+      "y": 485,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 44041,
+      "e": "mousemove",
+      "x": 1349,
+      "y": 481,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 44103,
+      "e": "mousemove",
+      "x": 1350,
+      "y": 480,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 44342,
+      "e": "mousemove",
+      "x": 1350,
+      "y": 481,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 44393,
+      "e": "mousemove",
+      "x": 1348,
+      "y": 493,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 44395,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 44447,
+      "e": "mousemove",
+      "x": 1348,
+      "y": 521,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 44500,
+      "e": "mousemove",
+      "x": 1352,
+      "y": 537,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 44558,
+      "e": "mousemove",
+      "x": 1359,
+      "y": 544,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 44621,
+      "e": "mousemove",
+      "x": 1376,
+      "y": 570,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 44677,
+      "e": "mousemove",
+      "x": 1344,
+      "y": 597,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 44739,
+      "e": "mousemove",
+      "x": 1280,
+      "y": 611,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 44792,
+      "e": "mousemove",
+      "x": 1241,
+      "y": 625,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 44847,
+      "e": "mousemove",
+      "x": 1231,
+      "y": 630,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 44903,
+      "e": "mousemove",
+      "x": 1228,
+      "y": 638,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 44956,
+      "e": "mousemove",
+      "x": 1232,
+      "y": 655,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 45038,
+      "e": "mousemove",
+      "x": 1236,
+      "y": 657,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 45093,
+      "e": "mousemove",
+      "x": 1241,
+      "y": 650,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 45150,
+      "e": "mousemove",
+      "x": 1241,
+      "y": 641,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 45213,
+      "e": "mousemove",
+      "x": 1239,
+      "y": 635,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 45265,
+      "e": "mousemove",
+      "x": 1235,
+      "y": 627,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 45320,
+      "e": "mousemove",
+      "x": 1229,
+      "y": 618,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 45421,
+      "e": "mousemove",
+      "x": 1224,
+      "y": 613,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 45477,
+      "e": "mousemove",
+      "x": 1226,
+      "y": 652,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 45533,
+      "e": "mousemove",
+      "x": 1225,
+      "y": 685,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 45584,
+      "e": "mousemove",
+      "x": 1218,
+      "y": 745,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 45641,
+      "e": "mousemove",
+      "x": 1222,
+      "y": 804,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 45701,
+      "e": "mousemove",
+      "x": 1227,
+      "y": 811,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 45756,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 807,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 45813,
+      "e": "mousemove",
+      "x": 1249,
+      "y": 794,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 45870,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 782,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 45938,
+      "e": "mousemove",
+      "x": 1246,
+      "y": 778,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 46035,
+      "e": "mousemove",
+      "x": 1243,
+      "y": 776,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 46095,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 775,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 46150,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 774,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 46215,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 773,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 46285,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 769,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 46489,
+      "e": "mousemove",
+      "x": 1239,
+      "y": 766,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 46550,
+      "e": "mousemove",
+      "x": 1238,
+      "y": 770,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 46604,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 772,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 46662,
+      "e": "mousemove",
+      "x": 1249,
+      "y": 770,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 46726,
+      "e": "mousemove",
+      "x": 1249,
+      "y": 765,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 46796,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 762,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 46853,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 762,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 46909,
+      "e": "mousemove",
+      "x": 1243,
+      "y": 764,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 46987,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 765,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 47149,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 764,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 47583,
+      "e": "mousemove",
+      "x": 1246,
+      "y": 764,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 48164,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 764,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 48220,
+      "e": "mousemove",
+      "x": 1232,
+      "y": 764,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 48357,
+      "e": "mousemove",
+      "x": 1229,
+      "y": 764,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 48493,
+      "e": "mousemove",
+      "x": 1235,
+      "y": 761,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 48638,
+      "e": "mousemove",
+      "x": 1231,
+      "y": 763,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 48756,
+      "e": "mousemove",
+      "x": 1232,
+      "y": 761,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 48887,
+      "e": "mousemove",
+      "x": 1225,
+      "y": 765,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 48938,
+      "e": "mousemove",
+      "x": 1234,
+      "y": 762,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 49046,
+      "e": "mousemove",
+      "x": 1233,
+      "y": 762,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 49166,
+      "e": "mousemove",
+      "x": 1232,
+      "y": 764,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 50277,
+      "e": "mousemove",
+      "x": 1236,
+      "y": 761,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 50338,
+      "e": "mousemove",
+      "x": 1241,
+      "y": 760,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 50489,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 761,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 50886,
+      "e": "mousemove",
+      "x": 1241,
+      "y": 763,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 50942,
+      "e": "mousemove",
+      "x": 1245,
+      "y": 763,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 51010,
+      "e": "mousemove",
+      "x": 1246,
+      "y": 762,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 51062,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 761,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 51158,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 762,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 51233,
+      "e": "mousemove",
+      "x": 1241,
+      "y": 762,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 51288,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 761,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 51429,
+      "e": "mousemove",
+      "x": 1243,
+      "y": 761,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 51509,
+      "e": "mousemove",
+      "x": 1243,
+      "y": 763,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 51566,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 764,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 51621,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 762,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 51685,
+      "e": "mousemove",
+      "x": 1245,
+      "y": 760,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 51759,
+      "e": "mousemove",
+      "x": 1239,
+      "y": 761,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 51838,
+      "e": "mousemove",
+      "x": 1237,
+      "y": 763,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 51901,
+      "e": "mousemove",
+      "x": 1241,
+      "y": 763,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 51957,
+      "e": "mousemove",
+      "x": 1243,
+      "y": 763,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 52009,
+      "e": "mousemove",
+      "x": 1243,
+      "y": 760,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 52062,
+      "e": "mousemove",
+      "x": 1241,
+      "y": 760,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 52117,
+      "e": "mousemove",
+      "x": 1238,
+      "y": 760,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 52208,
+      "e": "mousemove",
+      "x": 1237,
+      "y": 763,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 52263,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 762,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 52318,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 759,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 52373,
+      "e": "mousemove",
+      "x": 1243,
+      "y": 757,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 52438,
+      "e": "mousemove",
+      "x": 1238,
+      "y": 757,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 52494,
+      "e": "mousemove",
+      "x": 1236,
+      "y": 760,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 52560,
+      "e": "mousemove",
+      "x": 1238,
+      "y": 762,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 52620,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 761,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 52677,
+      "e": "mousemove",
+      "x": 1246,
+      "y": 757,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 52734,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 754,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 52796,
+      "e": "mousemove",
+      "x": 1238,
+      "y": 753,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 52846,
+      "e": "mousemove",
+      "x": 1234,
+      "y": 757,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 52901,
+      "e": "mousemove",
+      "x": 1234,
+      "y": 760,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 52958,
+      "e": "mousemove",
+      "x": 1239,
+      "y": 765,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 53015,
+      "e": "mousemove",
+      "x": 1247,
+      "y": 765,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 53077,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 760,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 53136,
+      "e": "mousemove",
+      "x": 1247,
+      "y": 756,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 53189,
+      "e": "mousemove",
+      "x": 1241,
+      "y": 754,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 53244,
+      "e": "mousemove",
+      "x": 1234,
+      "y": 757,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 53301,
+      "e": "mousemove",
+      "x": 1233,
+      "y": 762,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 53357,
+      "e": "mousemove",
+      "x": 1236,
+      "y": 765,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 53414,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 764,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 53464,
+      "e": "mousemove",
+      "x": 1245,
+      "y": 761,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 53519,
+      "e": "mousemove",
+      "x": 1245,
+      "y": 759,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 53590,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 757,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 53645,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 757,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 53717,
+      "e": "mousemove",
+      "x": 1238,
+      "y": 761,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 53791,
+      "e": "mousemove",
+      "x": 1239,
+      "y": 764,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 53845,
+      "e": "mousemove",
+      "x": 1246,
+      "y": 763,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 53900,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 759,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 53967,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 755,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 54038,
+      "e": "mousemove",
+      "x": 1245,
+      "y": 753,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 54110,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 754,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 54173,
+      "e": "mousemove",
+      "x": 1239,
+      "y": 759,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 54234,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 761,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 54310,
+      "e": "mousemove",
+      "x": 1249,
+      "y": 760,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 54398,
+      "e": "mousemove",
+      "x": 1250,
+      "y": 756,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 54453,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 755,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 54518,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 756,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 54584,
+      "e": "mousemove",
+      "x": 1242,
+      "y": 760,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 54639,
+      "e": "mousemove",
+      "x": 1245,
+      "y": 764,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 54708,
+      "e": "mousemove",
+      "x": 1254,
+      "y": 764,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 54782,
+      "e": "mousemove",
+      "x": 1256,
+      "y": 760,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 54834,
+      "e": "mousemove",
+      "x": 1256,
+      "y": 757,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 54894,
+      "e": "mousemove",
+      "x": 1251,
+      "y": 755,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 54949,
+      "e": "mousemove",
+      "x": 1246,
+      "y": 755,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 55030,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 758,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 55082,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 761,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 55133,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 761,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 55197,
+      "e": "mousemove",
+      "x": 1252,
+      "y": 760,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 55258,
+      "e": "mousemove",
+      "x": 1253,
+      "y": 756,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 55313,
+      "e": "mousemove",
+      "x": 1253,
+      "y": 753,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 55366,
+      "e": "mousemove",
+      "x": 1249,
+      "y": 752,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 55430,
+      "e": "mousemove",
+      "x": 1243,
+      "y": 752,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 55488,
+      "e": "mousemove",
+      "x": 1238,
+      "y": 754,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 55542,
+      "e": "mousemove",
+      "x": 1237,
+      "y": 759,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 55597,
+      "e": "mousemove",
+      "x": 1237,
+      "y": 762,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 55653,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 764,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 55706,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 763,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 55760,
+      "e": "mousemove",
+      "x": 1252,
+      "y": 759,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 55815,
+      "e": "mousemove",
+      "x": 1252,
+      "y": 756,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 55867,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 753,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 55918,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 753,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 55973,
+      "e": "mousemove",
+      "x": 1236,
+      "y": 753,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 56039,
+      "e": "mousemove",
+      "x": 1231,
+      "y": 758,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 56094,
+      "e": "mousemove",
+      "x": 1230,
+      "y": 764,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 56155,
+      "e": "mousemove",
+      "x": 1235,
+      "y": 769,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 56208,
+      "e": "mousemove",
+      "x": 1247,
+      "y": 769,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 56264,
+      "e": "mousemove",
+      "x": 1253,
+      "y": 765,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 56320,
+      "e": "mousemove",
+      "x": 1253,
+      "y": 760,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 56397,
+      "e": "mousemove",
+      "x": 1251,
+      "y": 757,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 56463,
+      "e": "mousemove",
+      "x": 1247,
+      "y": 756,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 56522,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 756,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 56573,
+      "e": "mousemove",
+      "x": 1235,
+      "y": 758,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 56637,
+      "e": "mousemove",
+      "x": 1234,
+      "y": 763,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 56782,
+      "e": "mousemove",
+      "x": 1236,
+      "y": 765,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 56837,
+      "e": "mousemove",
+      "x": 1247,
+      "y": 757,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 56887,
+      "e": "mousemove",
+      "x": 1256,
+      "y": 751,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 57076,
+      "e": "mousemove",
+      "x": 1259,
+      "y": 749,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 57134,
+      "e": "mousemove",
+      "x": 1252,
+      "y": 749,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 57197,
+      "e": "mousemove",
+      "x": 1242,
+      "y": 749,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 57255,
+      "e": "mousemove",
+      "x": 1236,
+      "y": 751,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 57318,
+      "e": "mousemove",
+      "x": 1232,
+      "y": 757,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 57379,
+      "e": "mousemove",
+      "x": 1231,
+      "y": 765,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 57439,
+      "e": "mousemove",
+      "x": 1236,
+      "y": 769,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 57493,
+      "e": "mousemove",
+      "x": 1251,
+      "y": 771,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 57549,
+      "e": "mousemove",
+      "x": 1261,
+      "y": 767,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 57609,
+      "e": "mousemove",
+      "x": 1266,
+      "y": 751,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 57663,
+      "e": "mousemove",
+      "x": 1266,
+      "y": 697,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 57718,
+      "e": "mousemove",
+      "x": 1272,
+      "y": 636,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 57779,
+      "e": "mousemove",
+      "x": 1293,
+      "y": 578,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 57834,
+      "e": "mousemove",
+      "x": 1296,
+      "y": 561,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 57887,
+      "e": "mousemove",
+      "x": 1298,
+      "y": 560,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 57990,
+      "e": "mousemove",
+      "x": 1301,
+      "y": 555,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 58045,
+      "e": "mousemove",
+      "x": 1306,
+      "y": 537,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 58112,
+      "e": "mousemove",
+      "x": 1308,
+      "y": 529,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 58347,
+      "e": "click",
+      "x": 1308,
+      "y": 529,
+      "sy": 300,
+      "z": "betslip",
+      "txt": "+ 5,00",
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 58489,
+      "e": "mousemove",
+      "x": 1307,
+      "y": 529,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 58555,
+      "e": "mousemove",
+      "x": 1298,
+      "y": 530,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 58609,
+      "e": "mousemove",
+      "x": 1287,
+      "y": 531,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 58722,
+      "e": "mousemove",
+      "x": 1267,
+      "y": 532,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 58785,
+      "e": "mousemove",
+      "x": 1265,
+      "y": 532,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 58839,
+      "e": "mousemove",
+      "x": 1263,
+      "y": 532,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 58894,
+      "e": "mousemove",
+      "x": 1260,
+      "y": 532,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 58955,
+      "e": "mousemove",
+      "x": 1245,
+      "y": 529,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 59180,
+      "e": "click",
+      "x": 1242,
+      "y": 528,
+      "sy": 300,
+      "z": "betslip",
+      "txt": "+ 3,00",
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 59251,
+      "e": "mousemove",
+      "x": 1241,
+      "y": 528,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 59308,
+      "e": "mousemove",
+      "x": 1241,
+      "y": 552,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 59360,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 609,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 59415,
+      "e": "mousemove",
+      "x": 1238,
+      "y": 674,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 59477,
+      "e": "mousemove",
+      "x": 1238,
+      "y": 745,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 59587,
+      "e": "mousemove",
+      "x": 1239,
+      "y": 761,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 59645,
+      "e": "mousemove",
+      "x": 1249,
+      "y": 755,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 59712,
+      "e": "mousemove",
+      "x": 1252,
+      "y": 748,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 59840,
+      "e": "mousemove",
+      "x": 1252,
+      "y": 747,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 59894,
+      "e": "mousemove",
+      "x": 1242,
+      "y": 754,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 59961,
+      "e": "mousemove",
+      "x": 1236,
+      "y": 767,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 60019,
+      "e": "mousemove",
+      "x": 1236,
+      "y": 769,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 60070,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 769,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 60123,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 762,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 60183,
+      "e": "mousemove",
+      "x": 1247,
+      "y": 749,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 60238,
+      "e": "mousemove",
+      "x": 1243,
+      "y": 749,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 60293,
+      "e": "mousemove",
+      "x": 1236,
+      "y": 757,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 60346,
+      "e": "mousemove",
+      "x": 1236,
+      "y": 762,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 60453,
+      "e": "mousemove",
+      "x": 1237,
+      "y": 764,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 60524,
+      "e": "mousemove",
+      "x": 1238,
+      "y": 761,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 60599,
+      "e": "mousemove",
+      "x": 1238,
+      "y": 762,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 60734,
+      "e": "mousemove",
+      "x": 1238,
+      "y": 765,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 60806,
+      "e": "mousemove",
+      "x": 1239,
+      "y": 762,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 60877,
+      "e": "mousemove",
+      "x": 1238,
+      "y": 761,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 60934,
+      "e": "mousemove",
+      "x": 1236,
+      "y": 766,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 61020,
+      "e": "mousemove",
+      "x": 1238,
+      "y": 769,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 61079,
+      "e": "mousemove",
+      "x": 1243,
+      "y": 764,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 61141,
+      "e": "mousemove",
+      "x": 1243,
+      "y": 760,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 61207,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 760,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 61274,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 766,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 61324,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 766,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 61389,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 761,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 61469,
+      "e": "mousemove",
+      "x": 1247,
+      "y": 757,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 61522,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 757,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 61589,
+      "e": "mousemove",
+      "x": 1237,
+      "y": 770,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 61650,
+      "e": "mousemove",
+      "x": 1246,
+      "y": 769,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 61710,
+      "e": "mousemove",
+      "x": 1254,
+      "y": 764,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 61765,
+      "e": "mousemove",
+      "x": 1252,
+      "y": 757,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 61822,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 757,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 61877,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 766,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 61949,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 772,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 62002,
+      "e": "mousemove",
+      "x": 1249,
+      "y": 769,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 62134,
+      "e": "mousemove",
+      "x": 1249,
+      "y": 761,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 62189,
+      "e": "mousemove",
+      "x": 1242,
+      "y": 769,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 62262,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 771,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 62316,
+      "e": "mousemove",
+      "x": 1249,
+      "y": 767,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 62373,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 759,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 62429,
+      "e": "mousemove",
+      "x": 1241,
+      "y": 758,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 62485,
+      "e": "mousemove",
+      "x": 1237,
+      "y": 762,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 62551,
+      "e": "mousemove",
+      "x": 1239,
+      "y": 768,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 62613,
+      "e": "mousemove",
+      "x": 1245,
+      "y": 765,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 62680,
+      "e": "mousemove",
+      "x": 1245,
+      "y": 759,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 62732,
+      "e": "mousemove",
+      "x": 1238,
+      "y": 760,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 62783,
+      "e": "mousemove",
+      "x": 1237,
+      "y": 764,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 62836,
+      "e": "mousemove",
+      "x": 1243,
+      "y": 769,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 62898,
+      "e": "mousemove",
+      "x": 1257,
+      "y": 767,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 62950,
+      "e": "mousemove",
+      "x": 1258,
+      "y": 761,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 63006,
+      "e": "mousemove",
+      "x": 1252,
+      "y": 765,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 63061,
+      "e": "mousemove",
+      "x": 1249,
+      "y": 779,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 63122,
+      "e": "mousemove",
+      "x": 1262,
+      "y": 783,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 63177,
+      "e": "mousemove",
+      "x": 1289,
+      "y": 780,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 63231,
+      "e": "mousemove",
+      "x": 1296,
+      "y": 777,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 63429,
+      "e": "mousemove",
+      "x": 1298,
+      "y": 773,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 63686,
+      "e": "mousemove",
+      "x": 1299,
+      "y": 773,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 63758,
+      "e": "mousemove",
+      "x": 1302,
+      "y": 775,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    },
+    {
+      "t": 64175,
+      "e": "session_stop",
+      "x": 0,
+      "y": 0,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/italija-4/italija-1-4/juventus-ac-milan"
+    }
+  ]
+}

@@ -1,0 +1,2920 @@
+{
+  "session_id": "session_mtsbrcpo_bg4ir03",
+  "label": "hesitant_checkout",
+  "session_started_at": "2026-09-08T07:05:02.748Z",
+  "metadata": {
+    "viewport_width": 1536,
+    "viewport_height": 826,
+    "device_pixel_ratio": 1.25,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "initial_url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer",
+    "hostname": "www.psk.hr",
+    "total_duration_ms": 28549,
+    "total_events": 290,
+    "account_creation_date": "2026-01-22T00:00:00Z",
+    "no_of_active_sessions": 10,
+    "no_bets_placed": 0
+  },
+  "events": [
+    {
+      "t": 0,
+      "e": "session_start",
+      "x": 0,
+      "y": 0,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3,
+      "e": "click",
+      "x": 1359,
+      "y": 776,
+      "sy": 0,
+      "z": "background",
+      "txt": "Stop",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 126,
+      "e": "mousemove",
+      "x": 1359,
+      "y": 774,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 178,
+      "e": "mousemove",
+      "x": 1363,
+      "y": 764,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 235,
+      "e": "mousemove",
+      "x": 1357,
+      "y": 711,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 470,
+      "e": "mousemove",
+      "x": 828,
+      "y": 453,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 626,
+      "e": "mousemove",
+      "x": 828,
+      "y": 451,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 732,
+      "e": "mousemove",
+      "x": 829,
+      "y": 449,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 787,
+      "e": "mousemove",
+      "x": 829,
+      "y": 438,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 983,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 100,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1088,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1350,
+      "e": "mousemove",
+      "x": 829,
+      "y": 433,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1404,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 500,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1460,
+      "e": "mousemove",
+      "x": 828,
+      "y": 433,
+      "sy": 600,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1532,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 900,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1575,
+      "e": "mousemove",
+      "x": 827,
+      "y": 434,
+      "sy": 900,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1810,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 1000,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1915,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 1300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2034,
+      "e": "mousemove",
+      "x": 826,
+      "y": 434,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2098,
+      "e": "mousemove",
+      "x": 817,
+      "y": 438,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2165,
+      "e": "mousemove",
+      "x": 814,
+      "y": 440,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2220,
+      "e": "mousemove",
+      "x": 810,
+      "y": 441,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2272,
+      "e": "mousemove",
+      "x": 803,
+      "y": 444,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2354,
+      "e": "mousemove",
+      "x": 769,
+      "y": 445,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2406,
+      "e": "mousemove",
+      "x": 679,
+      "y": 430,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2457,
+      "e": "mousemove",
+      "x": 660,
+      "y": 426,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2517,
+      "e": "mousemove",
+      "x": 612,
+      "y": 410,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2593,
+      "e": "mousemove",
+      "x": 518,
+      "y": 389,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2670,
+      "e": "mousemove",
+      "x": 462,
+      "y": 385,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2746,
+      "e": "mousemove",
+      "x": 442,
+      "y": 380,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2797,
+      "e": "mousemove",
+      "x": 441,
+      "y": 372,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2858,
+      "e": "mousemove",
+      "x": 442,
+      "y": 368,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2986,
+      "e": "mousemove",
+      "x": 444,
+      "y": 366,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3088,
+      "e": "click",
+      "x": 444,
+      "y": 366,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3404,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 3410,
+      "e": "page_view",
+      "x": 0,
+      "y": 0,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 3686,
+      "e": "mousemove",
+      "x": 445,
+      "y": 366,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 3740,
+      "e": "mousemove",
+      "x": 472,
+      "y": 366,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 3794,
+      "e": "mousemove",
+      "x": 526,
+      "y": 369,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 3849,
+      "e": "mousemove",
+      "x": 642,
+      "y": 373,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 3987,
+      "e": "mousemove",
+      "x": 844,
+      "y": 363,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 4063,
+      "e": "mousemove",
+      "x": 862,
+      "y": 361,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 4252,
+      "e": "mousemove",
+      "x": 864,
+      "y": 363,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 4389,
+      "e": "mousemove",
+      "x": 874,
+      "y": 360,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 4559,
+      "e": "mousemove",
+      "x": 864,
+      "y": 359,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 4681,
+      "e": "mousemove",
+      "x": 864,
+      "y": 358,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 4766,
+      "e": "mousemove",
+      "x": 866,
+      "y": 357,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 4836,
+      "e": "mousemove",
+      "x": 876,
+      "y": 361,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 4892,
+      "e": "mousemove",
+      "x": 962,
+      "y": 383,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 4950,
+      "e": "mousemove",
+      "x": 1181,
+      "y": 386,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 5005,
+      "e": "mousemove",
+      "x": 1222,
+      "y": 388,
+      "sy": 0,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 5061,
+      "e": "mousemove",
+      "x": 1157,
+      "y": 393,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 5116,
+      "e": "mousemove",
+      "x": 990,
+      "y": 393,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 5171,
+      "e": "mousemove",
+      "x": 864,
+      "y": 403,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 5241,
+      "e": "mousemove",
+      "x": 840,
+      "y": 408,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 5291,
+      "e": "mousemove",
+      "x": 823,
+      "y": 415,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 5389,
+      "e": "mousemove",
+      "x": 819,
+      "y": 416,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 5473,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 100,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 5620,
+      "e": "mousemove",
+      "x": 817,
+      "y": 416,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 5703,
+      "e": "mousemove",
+      "x": 814,
+      "y": 417,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 5758,
+      "e": "mousemove",
+      "x": 768,
+      "y": 441,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 5819,
+      "e": "mousemove",
+      "x": 716,
+      "y": 463,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 5910,
+      "e": "mousemove",
+      "x": 715,
+      "y": 465,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 5965,
+      "e": "mousemove",
+      "x": 766,
+      "y": 444,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 6124,
+      "e": "mousemove",
+      "x": 992,
+      "y": 263,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 6179,
+      "e": "mousemove",
+      "x": 900,
+      "y": 296,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 6238,
+      "e": "mousemove",
+      "x": 877,
+      "y": 313,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 6318,
+      "e": "mousemove",
+      "x": 872,
+      "y": 315,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 6371,
+      "e": "mousemove",
+      "x": 880,
+      "y": 281,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 6460,
+      "e": "mousemove",
+      "x": 885,
+      "y": 248,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 6510,
+      "e": "mousemove",
+      "x": 887,
+      "y": 243,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 6571,
+      "e": "mousemove",
+      "x": 892,
+      "y": 229,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 6637,
+      "e": "mousemove",
+      "x": 904,
+      "y": 215,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 6692,
+      "e": "mousemove",
+      "x": 907,
+      "y": 213,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 6747,
+      "e": "mousemove",
+      "x": 916,
+      "y": 208,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 6977,
+      "e": "mousemove",
+      "x": 920,
+      "y": 206,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 7040,
+      "e": "mousemove",
+      "x": 840,
+      "y": 241,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 7093,
+      "e": "mousemove",
+      "x": 636,
+      "y": 370,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 7165,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 200,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 7352,
+      "e": "mousemove",
+      "x": 626,
+      "y": 383,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 7413,
+      "e": "mousemove",
+      "x": 580,
+      "y": 422,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 7467,
+      "e": "mousemove",
+      "x": 479,
+      "y": 497,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 7540,
+      "e": "mousemove",
+      "x": 459,
+      "y": 538,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 7601,
+      "e": "mousemove",
+      "x": 461,
+      "y": 537,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 7671,
+      "e": "mousemove",
+      "x": 468,
+      "y": 531,
+      "sy": 100,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 7674,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 100,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 7799,
+      "e": "mousemove",
+      "x": 468,
+      "y": 530,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 7890,
+      "e": "mousemove",
+      "x": 470,
+      "y": 528,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 8018,
+      "e": "mousemove",
+      "x": 471,
+      "y": 526,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 8211,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 500,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 8331,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 700,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 8462,
+      "e": "mousemove",
+      "x": 472,
+      "y": 523,
+      "sy": 700,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 8679,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 800,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 8721,
+      "e": "mousemove",
+      "x": 473,
+      "y": 522,
+      "sy": 900,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 8966,
+      "e": "mousemove",
+      "x": 476,
+      "y": 520,
+      "sy": 1000,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 9093,
+      "e": "mousemove",
+      "x": 476,
+      "y": 522,
+      "sy": 1000,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 9173,
+      "e": "mousemove",
+      "x": 478,
+      "y": 532,
+      "sy": 1000,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 9226,
+      "e": "mousemove",
+      "x": 473,
+      "y": 533,
+      "sy": 1000,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 9289,
+      "e": "mousemove",
+      "x": 472,
+      "y": 534,
+      "sy": 1000,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 9340,
+      "e": "mousemove",
+      "x": 467,
+      "y": 539,
+      "sy": 1000,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 9396,
+      "e": "mousemove",
+      "x": 456,
+      "y": 545,
+      "sy": 1000,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 9453,
+      "e": "mousemove",
+      "x": 452,
+      "y": 557,
+      "sy": 1000,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 9549,
+      "e": "mousemove",
+      "x": 448,
+      "y": 563,
+      "sy": 1000,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 9604,
+      "e": "mousemove",
+      "x": 455,
+      "y": 560,
+      "sy": 1000,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 9656,
+      "e": "mousemove",
+      "x": 468,
+      "y": 554,
+      "sy": 1000,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 9718,
+      "e": "mousemove",
+      "x": 471,
+      "y": 551,
+      "sy": 1000,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 9770,
+      "e": "mousemove",
+      "x": 475,
+      "y": 545,
+      "sy": 1000,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 9880,
+      "e": "mousemove",
+      "x": 475,
+      "y": 543,
+      "sy": 1000,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 9932,
+      "e": "mousemove",
+      "x": 478,
+      "y": 537,
+      "sy": 1000,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 9993,
+      "e": "mousemove",
+      "x": 482,
+      "y": 530,
+      "sy": 1000,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 10047,
+      "e": "mousemove",
+      "x": 488,
+      "y": 517,
+      "sy": 1000,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 10107,
+      "e": "mousemove",
+      "x": 503,
+      "y": 500,
+      "sy": 1000,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 10157,
+      "e": "mousemove",
+      "x": 511,
+      "y": 483,
+      "sy": 1100,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 10158,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 1100,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 10210,
+      "e": "mousemove",
+      "x": 518,
+      "y": 464,
+      "sy": 1200,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 10260,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 1300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 10273,
+      "e": "mousemove",
+      "x": 528,
+      "y": 437,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 10326,
+      "e": "mousemove",
+      "x": 532,
+      "y": 426,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 10995,
+      "e": "mousemove",
+      "x": 533,
+      "y": 426,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 11770,
+      "e": "mousemove",
+      "x": 533,
+      "y": 430,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 11880,
+      "e": "mousemove",
+      "x": 533,
+      "y": 432,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 12013,
+      "e": "mousemove",
+      "x": 533,
+      "y": 431,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 12068,
+      "e": "mousemove",
+      "x": 534,
+      "y": 430,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 12437,
+      "e": "mousemove",
+      "x": 534,
+      "y": 431,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 12504,
+      "e": "mousemove",
+      "x": 532,
+      "y": 433,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 12560,
+      "e": "mousemove",
+      "x": 532,
+      "y": 437,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 12613,
+      "e": "mousemove",
+      "x": 527,
+      "y": 447,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 12710,
+      "e": "mousemove",
+      "x": 525,
+      "y": 451,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 12863,
+      "e": "mousemove",
+      "x": 525,
+      "y": 452,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 13007,
+      "e": "mousemove",
+      "x": 525,
+      "y": 453,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 13061,
+      "e": "mousemove",
+      "x": 525,
+      "y": 455,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 13116,
+      "e": "mousemove",
+      "x": 525,
+      "y": 460,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 13183,
+      "e": "mousemove",
+      "x": 525,
+      "y": 466,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 13388,
+      "e": "mousemove",
+      "x": 526,
+      "y": 465,
+      "sy": 1300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 13647,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 1400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 13938,
+      "e": "mousemove",
+      "x": 526,
+      "y": 464,
+      "sy": 1800,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 14291,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 1700,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 14344,
+      "e": "mousemove",
+      "x": 528,
+      "y": 460,
+      "sy": 1400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 14396,
+      "e": "mousemove",
+      "x": 528,
+      "y": 459,
+      "sy": 1400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 14622,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 1300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 14750,
+      "e": "mousemove",
+      "x": 528,
+      "y": 458,
+      "sy": 900,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 14955,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 800,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 15306,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 15861,
+      "e": "mousemove",
+      "x": 528,
+      "y": 457,
+      "sy": 100,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 16564,
+      "e": "mousemove",
+      "x": 528,
+      "y": 456,
+      "sy": 100,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 16844,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 200,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 17036,
+      "e": "mousemove",
+      "x": 527,
+      "y": 456,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 17139,
+      "e": "mousemove",
+      "x": 523,
+      "y": 455,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 17194,
+      "e": "mousemove",
+      "x": 520,
+      "y": 455,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 17312,
+      "e": "mousemove",
+      "x": 524,
+      "y": 454,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 17373,
+      "e": "mousemove",
+      "x": 620,
+      "y": 444,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 17425,
+      "e": "mousemove",
+      "x": 864,
+      "y": 410,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 17486,
+      "e": "mousemove",
+      "x": 884,
+      "y": 404,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 17542,
+      "e": "mousemove",
+      "x": 896,
+      "y": 398,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 17595,
+      "e": "mousemove",
+      "x": 919,
+      "y": 389,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 17655,
+      "e": "mousemove",
+      "x": 928,
+      "y": 383,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 17710,
+      "e": "mousemove",
+      "x": 933,
+      "y": 373,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 17764,
+      "e": "mousemove",
+      "x": 934,
+      "y": 365,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 17824,
+      "e": "mousemove",
+      "x": 932,
+      "y": 351,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 17988,
+      "e": "mousemove",
+      "x": 932,
+      "y": 348,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 18327,
+      "e": "mousemove",
+      "x": 931,
+      "y": 348,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 18452,
+      "e": "mousemove",
+      "x": 928,
+      "y": 350,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 18505,
+      "e": "mousemove",
+      "x": 1052,
+      "y": 399,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 18565,
+      "e": "mousemove",
+      "x": 1220,
+      "y": 336,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 18618,
+      "e": "mousemove",
+      "x": 1288,
+      "y": 256,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 18673,
+      "e": "mousemove",
+      "x": 1268,
+      "y": 235,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 18849,
+      "e": "mousemove",
+      "x": 1372,
+      "y": 593,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 18905,
+      "e": "mousemove",
+      "x": 1535,
+      "y": 444,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 18966,
+      "e": "mousemove",
+      "x": 1506,
+      "y": 372,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 19018,
+      "e": "mousemove",
+      "x": 1451,
+      "y": 358,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 19069,
+      "e": "mousemove",
+      "x": 1364,
+      "y": 398,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 19126,
+      "e": "mousemove",
+      "x": 1258,
+      "y": 473,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 19188,
+      "e": "mousemove",
+      "x": 1357,
+      "y": 501,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 19242,
+      "e": "mousemove",
+      "x": 1425,
+      "y": 487,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 19292,
+      "e": "mousemove",
+      "x": 1396,
+      "y": 475,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 19349,
+      "e": "mousemove",
+      "x": 1212,
+      "y": 497,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 19407,
+      "e": "mousemove",
+      "x": 1136,
+      "y": 579,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 19457,
+      "e": "mousemove",
+      "x": 1144,
+      "y": 637,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 19511,
+      "e": "mousemove",
+      "x": 1184,
+      "y": 671,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 19563,
+      "e": "mousemove",
+      "x": 1216,
+      "y": 663,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 19618,
+      "e": "mousemove",
+      "x": 1217,
+      "y": 637,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 19673,
+      "e": "mousemove",
+      "x": 1223,
+      "y": 591,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 19725,
+      "e": "mousemove",
+      "x": 1223,
+      "y": 569,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 19788,
+      "e": "mousemove",
+      "x": 1221,
+      "y": 568,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 19843,
+      "e": "mousemove",
+      "x": 1239,
+      "y": 575,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 19897,
+      "e": "mousemove",
+      "x": 1382,
+      "y": 539,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 19958,
+      "e": "mousemove",
+      "x": 1406,
+      "y": 518,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 20073,
+      "e": "mousemove",
+      "x": 1407,
+      "y": 515,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 20134,
+      "e": "mousemove",
+      "x": 1422,
+      "y": 520,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 20188,
+      "e": "mousemove",
+      "x": 1476,
+      "y": 521,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 20242,
+      "e": "mousemove",
+      "x": 1512,
+      "y": 517,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 20298,
+      "e": "mousemove",
+      "x": 1501,
+      "y": 511,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 20351,
+      "e": "mousemove",
+      "x": 1414,
+      "y": 476,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 20407,
+      "e": "mousemove",
+      "x": 1375,
+      "y": 438,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 20457,
+      "e": "mousemove",
+      "x": 1360,
+      "y": 401,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 20509,
+      "e": "mousemove",
+      "x": 1360,
+      "y": 391,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 20600,
+      "e": "mousemove",
+      "x": 1360,
+      "y": 391,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 20667,
+      "e": "mousemove",
+      "x": 1360,
+      "y": 397,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 20740,
+      "e": "mousemove",
+      "x": 1360,
+      "y": 398,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 20801,
+      "e": "mousemove",
+      "x": 1360,
+      "y": 404,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 20861,
+      "e": "mousemove",
+      "x": 1357,
+      "y": 414,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 20915,
+      "e": "mousemove",
+      "x": 1372,
+      "y": 417,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 20970,
+      "e": "mousemove",
+      "x": 1437,
+      "y": 421,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 21097,
+      "e": "mousemove",
+      "x": 1453,
+      "y": 422,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 21147,
+      "e": "mousemove",
+      "x": 1420,
+      "y": 448,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 21202,
+      "e": "mousemove",
+      "x": 1363,
+      "y": 489,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 21261,
+      "e": "mousemove",
+      "x": 1360,
+      "y": 489,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 21316,
+      "e": "mousemove",
+      "x": 1360,
+      "y": 478,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 21443,
+      "e": "mousemove",
+      "x": 1362,
+      "y": 475,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 21585,
+      "e": "click",
+      "x": 1362,
+      "y": 475,
+      "sy": 400,
+      "z": "betslip",
+      "txt": "+ 10,00",
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 21816,
+      "e": "mousemove",
+      "x": 1362,
+      "y": 476,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 21878,
+      "e": "mousemove",
+      "x": 1356,
+      "y": 478,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 21931,
+      "e": "mousemove",
+      "x": 1349,
+      "y": 478,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 22134,
+      "e": "mousemove",
+      "x": 1345,
+      "y": 477,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 22185,
+      "e": "mousemove",
+      "x": 1332,
+      "y": 491,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 22238,
+      "e": "mousemove",
+      "x": 1312,
+      "y": 557,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 22293,
+      "e": "mousemove",
+      "x": 1369,
+      "y": 595,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 22348,
+      "e": "mousemove",
+      "x": 1417,
+      "y": 589,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 22398,
+      "e": "mousemove",
+      "x": 1389,
+      "y": 582,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 22449,
+      "e": "mousemove",
+      "x": 1315,
+      "y": 610,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 22499,
+      "e": "mousemove",
+      "x": 1254,
+      "y": 680,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 22551,
+      "e": "mousemove",
+      "x": 1252,
+      "y": 708,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 22606,
+      "e": "mousemove",
+      "x": 1303,
+      "y": 688,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 22662,
+      "e": "mousemove",
+      "x": 1298,
+      "y": 661,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 22717,
+      "e": "mousemove",
+      "x": 1268,
+      "y": 653,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 22770,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 671,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 22820,
+      "e": "mousemove",
+      "x": 1236,
+      "y": 699,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 22873,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 709,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 22923,
+      "e": "mousemove",
+      "x": 1262,
+      "y": 704,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 22983,
+      "e": "mousemove",
+      "x": 1260,
+      "y": 687,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 23039,
+      "e": "mousemove",
+      "x": 1249,
+      "y": 688,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 23092,
+      "e": "mousemove",
+      "x": 1242,
+      "y": 701,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 23152,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 704,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 23211,
+      "e": "mousemove",
+      "x": 1256,
+      "y": 694,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 23279,
+      "e": "mousemove",
+      "x": 1255,
+      "y": 689,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 23333,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 694,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 23388,
+      "e": "mousemove",
+      "x": 1239,
+      "y": 705,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 23439,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 707,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 23493,
+      "e": "mousemove",
+      "x": 1254,
+      "y": 693,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 23552,
+      "e": "mousemove",
+      "x": 1252,
+      "y": 689,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 23603,
+      "e": "mousemove",
+      "x": 1237,
+      "y": 698,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 23673,
+      "e": "mousemove",
+      "x": 1234,
+      "y": 709,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 23734,
+      "e": "mousemove",
+      "x": 1247,
+      "y": 701,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 23825,
+      "e": "mousemove",
+      "x": 1247,
+      "y": 693,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 23878,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 697,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 23934,
+      "e": "mousemove",
+      "x": 1236,
+      "y": 705,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 23988,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 702,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 24042,
+      "e": "mousemove",
+      "x": 1255,
+      "y": 693,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 24097,
+      "e": "mousemove",
+      "x": 1250,
+      "y": 691,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 24157,
+      "e": "mousemove",
+      "x": 1237,
+      "y": 702,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 24226,
+      "e": "mousemove",
+      "x": 1238,
+      "y": 709,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 24279,
+      "e": "mousemove",
+      "x": 1254,
+      "y": 693,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 24339,
+      "e": "mousemove",
+      "x": 1255,
+      "y": 685,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 24390,
+      "e": "mousemove",
+      "x": 1242,
+      "y": 691,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 24442,
+      "e": "mousemove",
+      "x": 1236,
+      "y": 702,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 24494,
+      "e": "mousemove",
+      "x": 1241,
+      "y": 709,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 24545,
+      "e": "mousemove",
+      "x": 1299,
+      "y": 686,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 24597,
+      "e": "mousemove",
+      "x": 1350,
+      "y": 623,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 24650,
+      "e": "mousemove",
+      "x": 1483,
+      "y": 300,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 24710,
+      "e": "mousemove",
+      "x": 1518,
+      "y": 114,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 24764,
+      "e": "mousemove",
+      "x": 1510,
+      "y": 95,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 24817,
+      "e": "mousemove",
+      "x": 1491,
+      "y": 111,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 24869,
+      "e": "mousemove",
+      "x": 1460,
+      "y": 150,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 25067,
+      "e": "mousemove",
+      "x": 1460,
+      "y": 153,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 25121,
+      "e": "mousemove",
+      "x": 1464,
+      "y": 150,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 25176,
+      "e": "mousemove",
+      "x": 1464,
+      "y": 149,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 25237,
+      "e": "mousemove",
+      "x": 1468,
+      "y": 149,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 25315,
+      "e": "mousemove",
+      "x": 1468,
+      "y": 148,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 25370,
+      "e": "mousemove",
+      "x": 1472,
+      "y": 146,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 25602,
+      "e": "click",
+      "x": 1473,
+      "y": 145,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 25705,
+      "e": "mousemove",
+      "x": 1473,
+      "y": 147,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 25764,
+      "e": "mousemove",
+      "x": 1430,
+      "y": 196,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 25816,
+      "e": "mousemove",
+      "x": 1233,
+      "y": 330,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 25870,
+      "e": "mousemove",
+      "x": 985,
+      "y": 438,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 25925,
+      "e": "mousemove",
+      "x": 816,
+      "y": 449,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 25980,
+      "e": "mousemove",
+      "x": 782,
+      "y": 445,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 26045,
+      "e": "mousemove",
+      "x": 772,
+      "y": 445,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 26130,
+      "e": "mousemove",
+      "x": 761,
+      "y": 447,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 26194,
+      "e": "mousemove",
+      "x": 826,
+      "y": 456,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 26263,
+      "e": "mousemove",
+      "x": 845,
+      "y": 459,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 26319,
+      "e": "mousemove",
+      "x": 848,
+      "y": 465,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 26370,
+      "e": "mousemove",
+      "x": 844,
+      "y": 479,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 26627,
+      "e": "click",
+      "x": 844,
+      "y": 482,
+      "sy": 400,
+      "z": "betslip",
+      "txt": "DELETE",
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 26749,
+      "e": "mousemove",
+      "x": 844,
+      "y": 484,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 26802,
+      "e": "mousemove",
+      "x": 872,
+      "y": 501,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 26975,
+      "e": "mousemove",
+      "x": 1216,
+      "y": 633,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 27168,
+      "e": "mousemove",
+      "x": 1336,
+      "y": 791,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 27248,
+      "e": "mousemove",
+      "x": 1340,
+      "y": 791,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 27716,
+      "e": "mousemove",
+      "x": 1343,
+      "y": 777,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    },
+    {
+      "t": 27863,
+      "e": "session_stop",
+      "x": 0,
+      "y": 0,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp-challenger/challenge-istanbul-3-x/tobon-m-kirci-k?filter=live&tab=offer"
+    }
+  ]
+}

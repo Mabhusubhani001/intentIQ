@@ -1,0 +1,2340 @@
+{
+  "session_id": "session_mtsalev6_2crbmdv",
+  "label": "veteran_direct",
+  "session_started_at": "2026-09-08T06:32:25.986Z",
+  "metadata": {
+    "viewport_width": 1536,
+    "viewport_height": 826,
+    "device_pixel_ratio": 1.25,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "initial_url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer",
+    "hostname": "www.psk.hr",
+    "total_duration_ms": 24440,
+    "total_events": 232,
+    "account_creation_date": "2024-11-07T00:00:00Z",
+    "no_of_active_sessions": 65,
+    "no_bets_placed": 82
+  },
+  "events": [
+    {
+      "t": 0,
+      "e": "session_start",
+      "x": 0,
+      "y": 0,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 5,
+      "e": "click",
+      "x": 1315,
+      "y": 778,
+      "sy": 0,
+      "z": "background",
+      "txt": "Stop",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 17,
+      "e": "mousemove",
+      "x": 1316,
+      "y": 778,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 76,
+      "e": "mousemove",
+      "x": 1324,
+      "y": 635,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 141,
+      "e": "mousemove",
+      "x": 1171,
+      "y": 315,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 206,
+      "e": "mousemove",
+      "x": 700,
+      "y": 110,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 268,
+      "e": "mousemove",
+      "x": 389,
+      "y": 69,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 380,
+      "e": "mousemove",
+      "x": 321,
+      "y": 105,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 547,
+      "e": "mousemove",
+      "x": 320,
+      "y": 111,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 610,
+      "e": "mousemove",
+      "x": 324,
+      "y": 138,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 663,
+      "e": "mousemove",
+      "x": 324,
+      "y": 144,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 714,
+      "e": "mousemove",
+      "x": 325,
+      "y": 153,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 942,
+      "e": "mousemove",
+      "x": 324,
+      "y": 156,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 996,
+      "e": "mousemove",
+      "x": 325,
+      "y": 154,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1063,
+      "e": "mousemove",
+      "x": 325,
+      "y": 152,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1245,
+      "e": "mousemove",
+      "x": 325,
+      "y": 151,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1299,
+      "e": "mousemove",
+      "x": 325,
+      "y": 148,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1482,
+      "e": "click",
+      "x": 325,
+      "y": 148,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": "LIVE",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1804,
+      "e": "page_view",
+      "x": 0,
+      "y": 0,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 2071,
+      "e": "mousemove",
+      "x": 326,
+      "y": 149,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 2148,
+      "e": "mousemove",
+      "x": 332,
+      "y": 167,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 2202,
+      "e": "mousemove",
+      "x": 350,
+      "y": 212,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 2260,
+      "e": "mousemove",
+      "x": 412,
+      "y": 272,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 2311,
+      "e": "mousemove",
+      "x": 548,
+      "y": 349,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 2362,
+      "e": "mousemove",
+      "x": 657,
+      "y": 385,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 2419,
+      "e": "mousemove",
+      "x": 675,
+      "y": 381,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 2539,
+      "e": "mousemove",
+      "x": 688,
+      "y": 379,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 2595,
+      "e": "mousemove",
+      "x": 688,
+      "y": 378,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 2692,
+      "e": "mousemove",
+      "x": 688,
+      "y": 376,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 2778,
+      "e": "mousemove",
+      "x": 688,
+      "y": 373,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 2844,
+      "e": "mousemove",
+      "x": 688,
+      "y": 369,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 2902,
+      "e": "mousemove",
+      "x": 687,
+      "y": 364,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 2960,
+      "e": "mousemove",
+      "x": 685,
+      "y": 359,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 3017,
+      "e": "mousemove",
+      "x": 685,
+      "y": 353,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 3075,
+      "e": "mousemove",
+      "x": 685,
+      "y": 348,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 3376,
+      "e": "mousemove",
+      "x": 686,
+      "y": 346,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 3476,
+      "e": "mousemove",
+      "x": 686,
+      "y": 348,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 3534,
+      "e": "mousemove",
+      "x": 686,
+      "y": 349,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 3636,
+      "e": "mousemove",
+      "x": 651,
+      "y": 348,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 3687,
+      "e": "mousemove",
+      "x": 503,
+      "y": 292,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 3741,
+      "e": "mousemove",
+      "x": 418,
+      "y": 273,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 3799,
+      "e": "mousemove",
+      "x": 408,
+      "y": 272,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 3850,
+      "e": "mousemove",
+      "x": 410,
+      "y": 268,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 3911,
+      "e": "mousemove",
+      "x": 415,
+      "y": 261,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 3966,
+      "e": "mousemove",
+      "x": 418,
+      "y": 253,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 4435,
+      "e": "mousemove",
+      "x": 420,
+      "y": 252,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 4627,
+      "e": "mousemove",
+      "x": 423,
+      "y": 253,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 5961,
+      "e": "mousemove",
+      "x": 468,
+      "y": 254,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 6018,
+      "e": "mousemove",
+      "x": 936,
+      "y": 247,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 6082,
+      "e": "mousemove",
+      "x": 1037,
+      "y": 232,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 6138,
+      "e": "mousemove",
+      "x": 831,
+      "y": 298,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 6199,
+      "e": "mousemove",
+      "x": 612,
+      "y": 345,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 6265,
+      "e": "mousemove",
+      "x": 504,
+      "y": 385,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 6318,
+      "e": "mousemove",
+      "x": 507,
+      "y": 392,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 6383,
+      "e": "mousemove",
+      "x": 656,
+      "y": 373,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 6441,
+      "e": "mousemove",
+      "x": 799,
+      "y": 340,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 6499,
+      "e": "mousemove",
+      "x": 800,
+      "y": 338,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 6560,
+      "e": "mousemove",
+      "x": 756,
+      "y": 356,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 6623,
+      "e": "mousemove",
+      "x": 677,
+      "y": 379,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 6757,
+      "e": "mousemove",
+      "x": 653,
+      "y": 385,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 6808,
+      "e": "mousemove",
+      "x": 663,
+      "y": 380,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 6859,
+      "e": "mousemove",
+      "x": 697,
+      "y": 369,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 6915,
+      "e": "mousemove",
+      "x": 766,
+      "y": 353,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 6972,
+      "e": "mousemove",
+      "x": 788,
+      "y": 339,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 7023,
+      "e": "mousemove",
+      "x": 766,
+      "y": 328,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 7076,
+      "e": "mousemove",
+      "x": 691,
+      "y": 318,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 7195,
+      "e": "mousemove",
+      "x": 681,
+      "y": 316,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 7246,
+      "e": "mousemove",
+      "x": 685,
+      "y": 314,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 7300,
+      "e": "mousemove",
+      "x": 703,
+      "y": 310,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 7362,
+      "e": "mousemove",
+      "x": 707,
+      "y": 309,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 7588,
+      "e": "click",
+      "x": 707,
+      "y": 309,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": "1. poluvrijeme - 32m",
+      "url": "https://www.psk.hr/oklade?filter=live"
+    },
+    {
+      "t": 7725,
+      "e": "page_view",
+      "x": 0,
+      "y": 0,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 8100,
+      "e": "mousemove",
+      "x": 707,
+      "y": 310,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 8156,
+      "e": "mousemove",
+      "x": 724,
+      "y": 318,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 8214,
+      "e": "mousemove",
+      "x": 872,
+      "y": 347,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 8268,
+      "e": "mousemove",
+      "x": 1026,
+      "y": 355,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 8323,
+      "e": "mousemove",
+      "x": 1057,
+      "y": 347,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 8381,
+      "e": "mousemove",
+      "x": 1048,
+      "y": 341,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 8434,
+      "e": "mousemove",
+      "x": 918,
+      "y": 328,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 8490,
+      "e": "mousemove",
+      "x": 711,
+      "y": 328,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 8547,
+      "e": "mousemove",
+      "x": 655,
+      "y": 337,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 8610,
+      "e": "mousemove",
+      "x": 650,
+      "y": 340,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 9291,
+      "e": "mousemove",
+      "x": 648,
+      "y": 341,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 9353,
+      "e": "mousemove",
+      "x": 637,
+      "y": 352,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 9411,
+      "e": "mousemove",
+      "x": 630,
+      "y": 429,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 9614,
+      "e": "mousemove",
+      "x": 747,
+      "y": 398,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 9672,
+      "e": "mousemove",
+      "x": 719,
+      "y": 381,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 9722,
+      "e": "mousemove",
+      "x": 600,
+      "y": 408,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 9783,
+      "e": "mousemove",
+      "x": 526,
+      "y": 473,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 9835,
+      "e": "mousemove",
+      "x": 540,
+      "y": 535,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 9890,
+      "e": "mousemove",
+      "x": 600,
+      "y": 555,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 9940,
+      "e": "mousemove",
+      "x": 732,
+      "y": 541,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 9995,
+      "e": "mousemove",
+      "x": 784,
+      "y": 510,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 10048,
+      "e": "mousemove",
+      "x": 788,
+      "y": 493,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 10098,
+      "e": "mousemove",
+      "x": 759,
+      "y": 460,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 10157,
+      "e": "mousemove",
+      "x": 662,
+      "y": 460,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 10211,
+      "e": "mousemove",
+      "x": 512,
+      "y": 508,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 10263,
+      "e": "mousemove",
+      "x": 483,
+      "y": 562,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 10317,
+      "e": "mousemove",
+      "x": 534,
+      "y": 607,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 10371,
+      "e": "mousemove",
+      "x": 622,
+      "y": 614,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 10436,
+      "e": "mousemove",
+      "x": 689,
+      "y": 598,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 10488,
+      "e": "mousemove",
+      "x": 718,
+      "y": 579,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 10539,
+      "e": "mousemove",
+      "x": 728,
+      "y": 562,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 10590,
+      "e": "mousemove",
+      "x": 736,
+      "y": 549,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 10644,
+      "e": "mousemove",
+      "x": 740,
+      "y": 543,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 10704,
+      "e": "mousemove",
+      "x": 752,
+      "y": 529,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 10759,
+      "e": "mousemove",
+      "x": 772,
+      "y": 511,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 10819,
+      "e": "mousemove",
+      "x": 777,
+      "y": 505,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 10964,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 100,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 11126,
+      "e": "mousemove",
+      "x": 779,
+      "y": 501,
+      "sy": 100,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 11186,
+      "e": "mousemove",
+      "x": 726,
+      "y": 501,
+      "sy": 100,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 11241,
+      "e": "mousemove",
+      "x": 552,
+      "y": 501,
+      "sy": 100,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 11293,
+      "e": "mousemove",
+      "x": 412,
+      "y": 501,
+      "sy": 100,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 11353,
+      "e": "mousemove",
+      "x": 405,
+      "y": 499,
+      "sy": 100,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 11529,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 200,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 11735,
+      "e": "mousemove",
+      "x": 413,
+      "y": 494,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 11790,
+      "e": "mousemove",
+      "x": 396,
+      "y": 450,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 11844,
+      "e": "mousemove",
+      "x": 367,
+      "y": 377,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 11986,
+      "e": "mousemove",
+      "x": 359,
+      "y": 319,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 12092,
+      "e": "mousemove",
+      "x": 362,
+      "y": 316,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 12147,
+      "e": "mousemove",
+      "x": 343,
+      "y": 313,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 12201,
+      "e": "mousemove",
+      "x": 310,
+      "y": 303,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 12251,
+      "e": "mousemove",
+      "x": 284,
+      "y": 285,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 12308,
+      "e": "mousemove",
+      "x": 275,
+      "y": 269,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 12379,
+      "e": "mousemove",
+      "x": 277,
+      "y": 261,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 12438,
+      "e": "mousemove",
+      "x": 282,
+      "y": 258,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 12499,
+      "e": "mousemove",
+      "x": 304,
+      "y": 290,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 12557,
+      "e": "mousemove",
+      "x": 320,
+      "y": 348,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 12683,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 12750,
+      "e": "mousemove",
+      "x": 320,
+      "y": 348,
+      "sy": 500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 12862,
+      "e": "mousemove",
+      "x": 321,
+      "y": 344,
+      "sy": 500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 12917,
+      "e": "mousemove",
+      "x": 358,
+      "y": 333,
+      "sy": 500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 12978,
+      "e": "mousemove",
+      "x": 582,
+      "y": 312,
+      "sy": 500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 13032,
+      "e": "mousemove",
+      "x": 910,
+      "y": 261,
+      "sy": 500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 13086,
+      "e": "mousemove",
+      "x": 1005,
+      "y": 246,
+      "sy": 500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 13141,
+      "e": "mousemove",
+      "x": 985,
+      "y": 285,
+      "sy": 500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 13214,
+      "e": "mousemove",
+      "x": 973,
+      "y": 305,
+      "sy": 500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 13240,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 13420,
+      "e": "mousemove",
+      "x": 973,
+      "y": 306,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 13480,
+      "e": "mousemove",
+      "x": 977,
+      "y": 309,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 13536,
+      "e": "mousemove",
+      "x": 984,
+      "y": 339,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 13589,
+      "e": "mousemove",
+      "x": 998,
+      "y": 355,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 13644,
+      "e": "mousemove",
+      "x": 1024,
+      "y": 327,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 13698,
+      "e": "mousemove",
+      "x": 1046,
+      "y": 274,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 13756,
+      "e": "mousemove",
+      "x": 988,
+      "y": 228,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 13813,
+      "e": "mousemove",
+      "x": 825,
+      "y": 213,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 13867,
+      "e": "mousemove",
+      "x": 736,
+      "y": 228,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 13925,
+      "e": "mousemove",
+      "x": 687,
+      "y": 253,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 13983,
+      "e": "mousemove",
+      "x": 685,
+      "y": 253,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 14034,
+      "e": "mousemove",
+      "x": 687,
+      "y": 241,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 14089,
+      "e": "mousemove",
+      "x": 660,
+      "y": 227,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 14141,
+      "e": "mousemove",
+      "x": 642,
+      "y": 219,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 14326,
+      "e": "mousemove",
+      "x": 634,
+      "y": 217,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 14379,
+      "e": "mousemove",
+      "x": 688,
+      "y": 211,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 14432,
+      "e": "mousemove",
+      "x": 731,
+      "y": 196,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 14526,
+      "e": "mousemove",
+      "x": 744,
+      "y": 192,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 14582,
+      "e": "mousemove",
+      "x": 788,
+      "y": 192,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 14634,
+      "e": "mousemove",
+      "x": 814,
+      "y": 193,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 14691,
+      "e": "mousemove",
+      "x": 931,
+      "y": 193,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 14746,
+      "e": "mousemove",
+      "x": 1009,
+      "y": 193,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 15155,
+      "e": "mousemove",
+      "x": 1028,
+      "y": 190,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 15923,
+      "e": "mousemove",
+      "x": 1028,
+      "y": 191,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 16019,
+      "e": "mousemove",
+      "x": 1027,
+      "y": 193,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 17306,
+      "e": "mousemove",
+      "x": 1027,
+      "y": 196,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 17363,
+      "e": "mousemove",
+      "x": 1072,
+      "y": 234,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 17419,
+      "e": "mousemove",
+      "x": 1256,
+      "y": 321,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 17486,
+      "e": "mousemove",
+      "x": 1277,
+      "y": 321,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 17555,
+      "e": "mousemove",
+      "x": 1279,
+      "y": 320,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 17608,
+      "e": "mousemove",
+      "x": 1284,
+      "y": 325,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 17662,
+      "e": "mousemove",
+      "x": 1311,
+      "y": 365,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 17716,
+      "e": "mousemove",
+      "x": 1338,
+      "y": 427,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 17771,
+      "e": "mousemove",
+      "x": 1345,
+      "y": 452,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 17832,
+      "e": "mousemove",
+      "x": 1340,
+      "y": 475,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 17886,
+      "e": "mousemove",
+      "x": 1324,
+      "y": 497,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 17940,
+      "e": "mousemove",
+      "x": 1304,
+      "y": 517,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 17995,
+      "e": "mousemove",
+      "x": 1298,
+      "y": 517,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 18051,
+      "e": "mousemove",
+      "x": 1299,
+      "y": 509,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 18116,
+      "e": "mousemove",
+      "x": 1301,
+      "y": 501,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 18214,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 500,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 18291,
+      "e": "mousemove",
+      "x": 1301,
+      "y": 500,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 18425,
+      "e": "mousemove",
+      "x": 1303,
+      "y": 497,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 18481,
+      "e": "mousemove",
+      "x": 1307,
+      "y": 498,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 18535,
+      "e": "mousemove",
+      "x": 1324,
+      "y": 501,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 18590,
+      "e": "mousemove",
+      "x": 1363,
+      "y": 501,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 18644,
+      "e": "mousemove",
+      "x": 1412,
+      "y": 497,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 18741,
+      "e": "mousemove",
+      "x": 1423,
+      "y": 492,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 18797,
+      "e": "mousemove",
+      "x": 1348,
+      "y": 496,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 18851,
+      "e": "mousemove",
+      "x": 1315,
+      "y": 516,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 18906,
+      "e": "mousemove",
+      "x": 1348,
+      "y": 551,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 18959,
+      "e": "mousemove",
+      "x": 1374,
+      "y": 563,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 19013,
+      "e": "mousemove",
+      "x": 1365,
+      "y": 585,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 19068,
+      "e": "mousemove",
+      "x": 1308,
+      "y": 662,
+      "sy": 600,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 19129,
+      "e": "mousemove",
+      "x": 1263,
+      "y": 701,
+      "sy": 600,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 19184,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 718,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 19293,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 717,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 19347,
+      "e": "mousemove",
+      "x": 1247,
+      "y": 705,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 19438,
+      "e": "mousemove",
+      "x": 1246,
+      "y": 703,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 19589,
+      "e": "mousemove",
+      "x": 1246,
+      "y": 702,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 19675,
+      "e": "mousemove",
+      "x": 1246,
+      "y": 701,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 19868,
+      "e": "mousemove",
+      "x": 1246,
+      "y": 700,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 20016,
+      "e": "click",
+      "x": 1246,
+      "y": 700,
+      "sy": 600,
+      "z": "betslip",
+      "txt": "BET 1,00 \u20ac",
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 20898,
+      "e": "mousemove",
+      "x": 1247,
+      "y": 700,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 20954,
+      "e": "mousemove",
+      "x": 1251,
+      "y": 693,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 21007,
+      "e": "mousemove",
+      "x": 1261,
+      "y": 676,
+      "sy": 600,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 21061,
+      "e": "mousemove",
+      "x": 1270,
+      "y": 651,
+      "sy": 600,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 21116,
+      "e": "mousemove",
+      "x": 1276,
+      "y": 617,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 21171,
+      "e": "mousemove",
+      "x": 1280,
+      "y": 596,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 21226,
+      "e": "mousemove",
+      "x": 1281,
+      "y": 585,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 21283,
+      "e": "mousemove",
+      "x": 1292,
+      "y": 534,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 21335,
+      "e": "mousemove",
+      "x": 1300,
+      "y": 494,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 21390,
+      "e": "mousemove",
+      "x": 1316,
+      "y": 449,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 21446,
+      "e": "mousemove",
+      "x": 1326,
+      "y": 435,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 21499,
+      "e": "mousemove",
+      "x": 1340,
+      "y": 431,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 21555,
+      "e": "mousemove",
+      "x": 1370,
+      "y": 429,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 21610,
+      "e": "mousemove",
+      "x": 1388,
+      "y": 429,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 21731,
+      "e": "mousemove",
+      "x": 1396,
+      "y": 430,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 21781,
+      "e": "mousemove",
+      "x": 1401,
+      "y": 431,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 21831,
+      "e": "mousemove",
+      "x": 1413,
+      "y": 449,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 21886,
+      "e": "mousemove",
+      "x": 1450,
+      "y": 544,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 21940,
+      "e": "mousemove",
+      "x": 1499,
+      "y": 667,
+      "sy": 600,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 21995,
+      "e": "mousemove",
+      "x": 1513,
+      "y": 711,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 22050,
+      "e": "mousemove",
+      "x": 1511,
+      "y": 728,
+      "sy": 600,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 22105,
+      "e": "mousemove",
+      "x": 1491,
+      "y": 747,
+      "sy": 600,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 22159,
+      "e": "mousemove",
+      "x": 1460,
+      "y": 777,
+      "sy": 600,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 22210,
+      "e": "mousemove",
+      "x": 1440,
+      "y": 786,
+      "sy": 600,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 22261,
+      "e": "mousemove",
+      "x": 1421,
+      "y": 789,
+      "sy": 600,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 22316,
+      "e": "mousemove",
+      "x": 1387,
+      "y": 789,
+      "sy": 600,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 22370,
+      "e": "mousemove",
+      "x": 1340,
+      "y": 785,
+      "sy": 600,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 22626,
+      "e": "mousemove",
+      "x": 1324,
+      "y": 784,
+      "sy": 600,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 22750,
+      "e": "mousemove",
+      "x": 1324,
+      "y": 783,
+      "sy": 600,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 22852,
+      "e": "mousemove",
+      "x": 1324,
+      "y": 782,
+      "sy": 600,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    },
+    {
+      "t": 23028,
+      "e": "session_stop",
+      "x": 0,
+      "y": 0,
+      "sy": 600,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/indija-3/indija-mizoram-premier-league/kanan-fc-aizawl-saikhamakawn-fc?filter=live&tab=offer"
+    }
+  ]
+}

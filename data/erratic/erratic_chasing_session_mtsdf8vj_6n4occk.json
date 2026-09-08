@@ -1,0 +1,1110 @@
+{
+  "session_id": "session_mtsdf8vj_6n4occk",
+  "label": "erratic_chasing",
+  "session_started_at": "2026-09-08T07:51:37.135Z",
+  "metadata": {
+    "viewport_width": 1536,
+    "viewport_height": 826,
+    "device_pixel_ratio": 1.25,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "initial_url": "https://www.psk.hr/",
+    "hostname": "www.psk.hr",
+    "total_duration_ms": 13038,
+    "total_events": 109,
+    "account_creation_date": "2026-06-14T00:00:00Z",
+    "no_of_active_sessions": 97,
+    "no_bets_placed": 120
+  },
+  "events": [
+    {
+      "t": 0,
+      "e": "session_start",
+      "x": 0,
+      "y": 0,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 5,
+      "e": "click",
+      "x": 1319,
+      "y": 775,
+      "sy": 0,
+      "z": "background",
+      "txt": "Stop",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 11,
+      "e": "mousemove",
+      "x": 1319,
+      "y": 775,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 171,
+      "e": "mousemove",
+      "x": 1330,
+      "y": 776,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 227,
+      "e": "mousemove",
+      "x": 1413,
+      "y": 725,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 282,
+      "e": "mousemove",
+      "x": 1440,
+      "y": 596,
+      "sy": 0,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 332,
+      "e": "mousemove",
+      "x": 1132,
+      "y": 446,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 409,
+      "e": "mousemove",
+      "x": 636,
+      "y": 377,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 446,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 100,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 645,
+      "e": "mousemove",
+      "x": 630,
+      "y": 399,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 651,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 825,
+      "e": "mousemove",
+      "x": 632,
+      "y": 400,
+      "sy": 900,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 827,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 900,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 980,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 1000,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1216,
+      "e": "mousemove",
+      "x": 630,
+      "y": 400,
+      "sy": 1400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1271,
+      "e": "mousemove",
+      "x": 623,
+      "y": 406,
+      "sy": 1400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1322,
+      "e": "mousemove",
+      "x": 624,
+      "y": 462,
+      "sy": 1400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1377,
+      "e": "mousemove",
+      "x": 713,
+      "y": 535,
+      "sy": 1400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1439,
+      "e": "mousemove",
+      "x": 916,
+      "y": 408,
+      "sy": 1400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1493,
+      "e": "mousemove",
+      "x": 968,
+      "y": 321,
+      "sy": 1400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1544,
+      "e": "mousemove",
+      "x": 936,
+      "y": 318,
+      "sy": 1400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1601,
+      "e": "mousemove",
+      "x": 903,
+      "y": 372,
+      "sy": 1400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1662,
+      "e": "mousemove",
+      "x": 900,
+      "y": 395,
+      "sy": 1400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1747,
+      "e": "mousemove",
+      "x": 899,
+      "y": 396,
+      "sy": 1400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1806,
+      "e": "mousemove",
+      "x": 894,
+      "y": 395,
+      "sy": 1400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1977,
+      "e": "mousemove",
+      "x": 894,
+      "y": 394,
+      "sy": 1400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3275,
+      "e": "mousemove",
+      "x": 895,
+      "y": 392,
+      "sy": 1400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3330,
+      "e": "mousemove",
+      "x": 1048,
+      "y": 392,
+      "sy": 1400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3383,
+      "e": "mousemove",
+      "x": 1434,
+      "y": 417,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3438,
+      "e": "mousemove",
+      "x": 1535,
+      "y": 437,
+      "sy": 1400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3488,
+      "e": "mousemove",
+      "x": 1517,
+      "y": 452,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3543,
+      "e": "mousemove",
+      "x": 1475,
+      "y": 476,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3597,
+      "e": "mousemove",
+      "x": 1459,
+      "y": 490,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3653,
+      "e": "mousemove",
+      "x": 1457,
+      "y": 491,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3703,
+      "e": "mousemove",
+      "x": 1441,
+      "y": 492,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3807,
+      "e": "mousemove",
+      "x": 1428,
+      "y": 493,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3869,
+      "e": "mousemove",
+      "x": 1428,
+      "y": 506,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3928,
+      "e": "mousemove",
+      "x": 1392,
+      "y": 517,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3985,
+      "e": "mousemove",
+      "x": 1339,
+      "y": 519,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 4098,
+      "e": "mousemove",
+      "x": 1339,
+      "y": 519,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 4150,
+      "e": "mousemove",
+      "x": 1369,
+      "y": 519,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 4231,
+      "e": "mousemove",
+      "x": 1375,
+      "y": 518,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 4396,
+      "e": "click",
+      "x": 1375,
+      "y": 518,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "+ 10,00",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 4787,
+      "e": "click",
+      "x": 1375,
+      "y": 518,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "+ 10,00",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 4965,
+      "e": "click",
+      "x": 1375,
+      "y": 518,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "+ 10,00",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 5129,
+      "e": "click",
+      "x": 1375,
+      "y": 518,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "+ 10,00",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 5279,
+      "e": "click",
+      "x": 1375,
+      "y": 518,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "+ 10,00",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 5647,
+      "e": "click",
+      "x": 1375,
+      "y": 518,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "+ 10,00",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 5664,
+      "e": "mousemove",
+      "x": 1375,
+      "y": 517,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 5818,
+      "e": "click",
+      "x": 1375,
+      "y": 517,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "+ 10,00",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 6078,
+      "e": "click",
+      "x": 1375,
+      "y": 517,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "+ 10,00",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 6288,
+      "e": "click",
+      "x": 1375,
+      "y": 517,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "+ 10,00",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 6364,
+      "e": "mousemove",
+      "x": 1375,
+      "y": 516,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 6466,
+      "e": "click",
+      "x": 1375,
+      "y": 516,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "+ 10,00",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 6514,
+      "e": "mousemove",
+      "x": 1375,
+      "y": 517,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 6576,
+      "e": "mousemove",
+      "x": 1358,
+      "y": 534,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 6631,
+      "e": "mousemove",
+      "x": 1318,
+      "y": 599,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 6681,
+      "e": "mousemove",
+      "x": 1288,
+      "y": 643,
+      "sy": 1400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 6737,
+      "e": "mousemove",
+      "x": 1260,
+      "y": 696,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 6791,
+      "e": "mousemove",
+      "x": 1256,
+      "y": 706,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 6849,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 720,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 6899,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 729,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 6952,
+      "e": "mousemove",
+      "x": 1241,
+      "y": 733,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 7007,
+      "e": "mousemove",
+      "x": 1245,
+      "y": 744,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 7176,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 745,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 7223,
+      "e": "click",
+      "x": 1244,
+      "y": 745,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "BET 20,00 \u20ac",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 7392,
+      "e": "click",
+      "x": 1244,
+      "y": 745,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "Your ticket is being sent",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 7541,
+      "e": "click",
+      "x": 1244,
+      "y": 745,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "Your ticket is being sent",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 7741,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 744,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 7876,
+      "e": "click",
+      "x": 1244,
+      "y": 744,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "today 18:45 Nijmegen - SBV Exc",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 8049,
+      "e": "click",
+      "x": 1244,
+      "y": 744,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "1 1 2 3 4 Simple Warning: User",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 8069,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 745,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 8128,
+      "e": "mousemove",
+      "x": 1229,
+      "y": 769,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 8183,
+      "e": "mousemove",
+      "x": 1218,
+      "y": 788,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 8249,
+      "e": "mousemove",
+      "x": 1218,
+      "y": 787,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 8304,
+      "e": "mousemove",
+      "x": 1220,
+      "y": 768,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 8354,
+      "e": "mousemove",
+      "x": 1225,
+      "y": 747,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 8409,
+      "e": "mousemove",
+      "x": 1228,
+      "y": 741,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 8461,
+      "e": "mousemove",
+      "x": 1236,
+      "y": 729,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 8523,
+      "e": "mousemove",
+      "x": 1242,
+      "y": 719,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 8574,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 711,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 8796,
+      "e": "click",
+      "x": 1244,
+      "y": 709,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "BET 20,00 \u20ac",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 8944,
+      "e": "click",
+      "x": 1244,
+      "y": 709,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "Your ticket is being sent",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 9096,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 710,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 9128,
+      "e": "click",
+      "x": 1243,
+      "y": 713,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "Your ticket is being sent",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 9146,
+      "e": "mousemove",
+      "x": 1241,
+      "y": 715,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 9320,
+      "e": "click",
+      "x": 1241,
+      "y": 715,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "Your ticket is being sent",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 9524,
+      "e": "click",
+      "x": 1241,
+      "y": 715,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "BET 20,00 \u20ac",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 9682,
+      "e": "click",
+      "x": 1241,
+      "y": 715,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "Your ticket is being sent",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 10070,
+      "e": "click",
+      "x": 1241,
+      "y": 715,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "BET 20,00 \u20ac",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 10073,
+      "e": "mousemove",
+      "x": 1241,
+      "y": 714,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 10157,
+      "e": "mousemove",
+      "x": 1241,
+      "y": 713,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 10261,
+      "e": "click",
+      "x": 1241,
+      "y": 713,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "Your ticket is being sent",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 10439,
+      "e": "click",
+      "x": 1241,
+      "y": 713,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "BET 20,00 \u20ac",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 10581,
+      "e": "click",
+      "x": 1241,
+      "y": 713,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "Your ticket is being sent",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 10768,
+      "e": "click",
+      "x": 1241,
+      "y": 713,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "BET 20,00 \u20ac",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 10898,
+      "e": "click",
+      "x": 1241,
+      "y": 713,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": "Your ticket is being sent",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 10925,
+      "e": "mousemove",
+      "x": 1241,
+      "y": 715,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 10982,
+      "e": "mousemove",
+      "x": 1267,
+      "y": 740,
+      "sy": 1400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 11069,
+      "e": "mousemove",
+      "x": 1292,
+      "y": 754,
+      "sy": 1400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 11134,
+      "e": "mousemove",
+      "x": 1296,
+      "y": 758,
+      "sy": 1400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 11188,
+      "e": "mousemove",
+      "x": 1314,
+      "y": 777,
+      "sy": 1400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 11249,
+      "e": "mousemove",
+      "x": 1348,
+      "y": 818,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 11304,
+      "e": "mousemove",
+      "x": 1351,
+      "y": 818,
+      "sy": 1400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 11358,
+      "e": "mousemove",
+      "x": 1340,
+      "y": 800,
+      "sy": 1400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 11451,
+      "e": "mousemove",
+      "x": 1328,
+      "y": 773,
+      "sy": 1400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 11515,
+      "e": "mousemove",
+      "x": 1328,
+      "y": 772,
+      "sy": 1400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 11631,
+      "e": "mousemove",
+      "x": 1328,
+      "y": 772,
+      "sy": 1400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 11685,
+      "e": "session_stop",
+      "x": 0,
+      "y": 0,
+      "sy": 1400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    }
+  ]
+}

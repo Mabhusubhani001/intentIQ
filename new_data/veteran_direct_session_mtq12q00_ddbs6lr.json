@@ -1,0 +1,1827 @@
+{
+  "session_id": "session_mtq12q00_ddbs6lr",
+  "label": "veteran_direct",
+  "session_started_at": "2026-09-06T16:30:25.056Z",
+  "metadata": {
+    "viewport_width": 1536,
+    "viewport_height": 826,
+    "device_pixel_ratio": 1.25,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "initial_url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c",
+    "hostname": "www.psk.hr",
+    "total_duration_ms": 20640,
+    "total_events": 181
+  },
+  "events": [
+    {
+      "t": 0,
+      "e": "session_start",
+      "x": 0,
+      "y": 0,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3,
+      "e": "click",
+      "x": 1336,
+      "y": 778,
+      "sy": 0,
+      "z": "background",
+      "txt": "Stop",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 10,
+      "e": "mousemove",
+      "x": 1332,
+      "y": 778,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 67,
+      "e": "mousemove",
+      "x": 1229,
+      "y": 739,
+      "sy": 0,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 141,
+      "e": "mousemove",
+      "x": 1085,
+      "y": 645,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 192,
+      "e": "mousemove",
+      "x": 1042,
+      "y": 584,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 258,
+      "e": "mousemove",
+      "x": 1033,
+      "y": 574,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 320,
+      "e": "mousemove",
+      "x": 1028,
+      "y": 565,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 379,
+      "e": "mousemove",
+      "x": 1026,
+      "y": 554,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 429,
+      "e": "mousemove",
+      "x": 1024,
+      "y": 548,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 595,
+      "e": "mousemove",
+      "x": 1021,
+      "y": 545,
+      "sy": 100,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 596,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 100,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 658,
+      "e": "mousemove",
+      "x": 949,
+      "y": 531,
+      "sy": 100,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 728,
+      "e": "mousemove",
+      "x": 724,
+      "y": 496,
+      "sy": 100,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 791,
+      "e": "mousemove",
+      "x": 528,
+      "y": 425,
+      "sy": 100,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 859,
+      "e": "mousemove",
+      "x": 311,
+      "y": 302,
+      "sy": 100,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 926,
+      "e": "mousemove",
+      "x": 193,
+      "y": 201,
+      "sy": 100,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 978,
+      "e": "mousemove",
+      "x": 120,
+      "y": 94,
+      "sy": 100,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1043,
+      "e": "mousemove",
+      "x": 110,
+      "y": 62,
+      "sy": 100,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1107,
+      "e": "mousemove",
+      "x": 108,
+      "y": 57,
+      "sy": 100,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1172,
+      "e": "mousemove",
+      "x": 116,
+      "y": 49,
+      "sy": 100,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1233,
+      "e": "mousemove",
+      "x": 196,
+      "y": 38,
+      "sy": 100,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1285,
+      "e": "mousemove",
+      "x": 300,
+      "y": 60,
+      "sy": 100,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1341,
+      "e": "mousemove",
+      "x": 400,
+      "y": 132,
+      "sy": 100,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1402,
+      "e": "mousemove",
+      "x": 538,
+      "y": 324,
+      "sy": 100,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1453,
+      "e": "mousemove",
+      "x": 569,
+      "y": 405,
+      "sy": 100,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1505,
+      "e": "mousemove",
+      "x": 572,
+      "y": 430,
+      "sy": 100,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1567,
+      "e": "mousemove",
+      "x": 592,
+      "y": 444,
+      "sy": 100,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1621,
+      "e": "mousemove",
+      "x": 705,
+      "y": 450,
+      "sy": 100,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1672,
+      "e": "mousemove",
+      "x": 807,
+      "y": 450,
+      "sy": 100,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1730,
+      "e": "mousemove",
+      "x": 845,
+      "y": 450,
+      "sy": 100,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1763,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 200,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1901,
+      "e": "mousemove",
+      "x": 846,
+      "y": 450,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1961,
+      "e": "mousemove",
+      "x": 827,
+      "y": 441,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2021,
+      "e": "mousemove",
+      "x": 676,
+      "y": 369,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2095,
+      "e": "mousemove",
+      "x": 582,
+      "y": 316,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2157,
+      "e": "mousemove",
+      "x": 591,
+      "y": 305,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2212,
+      "e": "mousemove",
+      "x": 673,
+      "y": 325,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2253,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2336,
+      "e": "mousemove",
+      "x": 701,
+      "y": 333,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2416,
+      "e": "mousemove",
+      "x": 750,
+      "y": 344,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2491,
+      "e": "mousemove",
+      "x": 1155,
+      "y": 441,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2547,
+      "e": "mousemove",
+      "x": 1299,
+      "y": 495,
+      "sy": 0,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2608,
+      "e": "mousemove",
+      "x": 1284,
+      "y": 508,
+      "sy": 0,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2659,
+      "e": "mousemove",
+      "x": 1217,
+      "y": 541,
+      "sy": 0,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2711,
+      "e": "mousemove",
+      "x": 1154,
+      "y": 553,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2768,
+      "e": "mousemove",
+      "x": 1023,
+      "y": 533,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2823,
+      "e": "mousemove",
+      "x": 982,
+      "y": 510,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2897,
+      "e": "mousemove",
+      "x": 983,
+      "y": 504,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3016,
+      "e": "mousemove",
+      "x": 988,
+      "y": 503,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3071,
+      "e": "mousemove",
+      "x": 995,
+      "y": 511,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3121,
+      "e": "mousemove",
+      "x": 1017,
+      "y": 515,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3173,
+      "e": "mousemove",
+      "x": 1031,
+      "y": 510,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3227,
+      "e": "mousemove",
+      "x": 1061,
+      "y": 503,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3287,
+      "e": "mousemove",
+      "x": 1069,
+      "y": 503,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3670,
+      "e": "click",
+      "x": 1072,
+      "y": 503,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": "POČINJE ZA 1H",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3932,
+      "e": "page_view",
+      "x": 0,
+      "y": 0,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 4376,
+      "e": "mousemove",
+      "x": 900,
+      "y": 465,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 4477,
+      "e": "mousemove",
+      "x": 348,
+      "y": 329,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 4538,
+      "e": "mousemove",
+      "x": 339,
+      "y": 326,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 4623,
+      "e": "mousemove",
+      "x": 215,
+      "y": 234,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 4700,
+      "e": "mousemove",
+      "x": 255,
+      "y": 160,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 4756,
+      "e": "mousemove",
+      "x": 476,
+      "y": 89,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 4855,
+      "e": "mousemove",
+      "x": 815,
+      "y": 160,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 4914,
+      "e": "mousemove",
+      "x": 903,
+      "y": 298,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 5040,
+      "e": "mousemove",
+      "x": 836,
+      "y": 421,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 5101,
+      "e": "mousemove",
+      "x": 827,
+      "y": 421,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 5203,
+      "e": "mousemove",
+      "x": 823,
+      "y": 420,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 5502,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 100,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 5624,
+      "e": "mousemove",
+      "x": 823,
+      "y": 419,
+      "sy": 200,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 5769,
+      "e": "mousemove",
+      "x": 822,
+      "y": 418,
+      "sy": 200,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 5823,
+      "e": "mousemove",
+      "x": 783,
+      "y": 413,
+      "sy": 200,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 5878,
+      "e": "mousemove",
+      "x": 676,
+      "y": 400,
+      "sy": 200,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 5932,
+      "e": "mousemove",
+      "x": 651,
+      "y": 394,
+      "sy": 200,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 6005,
+      "e": "mousemove",
+      "x": 649,
+      "y": 393,
+      "sy": 200,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 6126,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 6181,
+      "e": "mousemove",
+      "x": 649,
+      "y": 392,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 6315,
+      "e": "mousemove",
+      "x": 648,
+      "y": 391,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 6368,
+      "e": "mousemove",
+      "x": 604,
+      "y": 389,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 6424,
+      "e": "mousemove",
+      "x": 391,
+      "y": 392,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 6484,
+      "e": "mousemove",
+      "x": 254,
+      "y": 414,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 6538,
+      "e": "mousemove",
+      "x": 229,
+      "y": 426,
+      "sy": 400,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 6599,
+      "e": "mousemove",
+      "x": 236,
+      "y": 434,
+      "sy": 400,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 6653,
+      "e": "mousemove",
+      "x": 382,
+      "y": 411,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 6708,
+      "e": "mousemove",
+      "x": 579,
+      "y": 347,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 6761,
+      "e": "mousemove",
+      "x": 586,
+      "y": 314,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 6817,
+      "e": "mousemove",
+      "x": 544,
+      "y": 289,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 6874,
+      "e": "mousemove",
+      "x": 433,
+      "y": 285,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 6931,
+      "e": "mousemove",
+      "x": 308,
+      "y": 332,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 6984,
+      "e": "mousemove",
+      "x": 263,
+      "y": 403,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 7047,
+      "e": "mousemove",
+      "x": 332,
+      "y": 455,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 7098,
+      "e": "mousemove",
+      "x": 619,
+      "y": 433,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 7157,
+      "e": "mousemove",
+      "x": 932,
+      "y": 333,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 7211,
+      "e": "mousemove",
+      "x": 950,
+      "y": 290,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 7266,
+      "e": "mousemove",
+      "x": 895,
+      "y": 269,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 7323,
+      "e": "mousemove",
+      "x": 736,
+      "y": 289,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 7378,
+      "e": "mousemove",
+      "x": 600,
+      "y": 386,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 7435,
+      "e": "mousemove",
+      "x": 622,
+      "y": 460,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 7496,
+      "e": "mousemove",
+      "x": 783,
+      "y": 479,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 7555,
+      "e": "mousemove",
+      "x": 956,
+      "y": 402,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 7611,
+      "e": "mousemove",
+      "x": 946,
+      "y": 347,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 7667,
+      "e": "mousemove",
+      "x": 872,
+      "y": 321,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 7720,
+      "e": "mousemove",
+      "x": 820,
+      "y": 321,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 7782,
+      "e": "mousemove",
+      "x": 801,
+      "y": 329,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 7838,
+      "e": "mousemove",
+      "x": 811,
+      "y": 337,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 7902,
+      "e": "mousemove",
+      "x": 822,
+      "y": 337,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 8050,
+      "e": "mousemove",
+      "x": 823,
+      "y": 337,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 8101,
+      "e": "mousemove",
+      "x": 825,
+      "y": 337,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 8155,
+      "e": "mousemove",
+      "x": 835,
+      "y": 335,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 8210,
+      "e": "mousemove",
+      "x": 843,
+      "y": 334,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 8338,
+      "e": "mousemove",
+      "x": 843,
+      "y": 334,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 8396,
+      "e": "mousemove",
+      "x": 760,
+      "y": 334,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 8449,
+      "e": "mousemove",
+      "x": 648,
+      "y": 334,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 8500,
+      "e": "mousemove",
+      "x": 596,
+      "y": 334,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 8587,
+      "e": "mousemove",
+      "x": 587,
+      "y": 334,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 9331,
+      "e": "mousemove",
+      "x": 588,
+      "y": 334,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 9385,
+      "e": "mousemove",
+      "x": 670,
+      "y": 334,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 9443,
+      "e": "mousemove",
+      "x": 796,
+      "y": 334,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 9497,
+      "e": "mousemove",
+      "x": 859,
+      "y": 334,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 9554,
+      "e": "mousemove",
+      "x": 886,
+      "y": 334,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 10287,
+      "e": "mousemove",
+      "x": 887,
+      "y": 335,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 10343,
+      "e": "mousemove",
+      "x": 888,
+      "y": 340,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 10411,
+      "e": "mousemove",
+      "x": 892,
+      "y": 342,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 11585,
+      "e": "mousemove",
+      "x": 895,
+      "y": 342,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 11642,
+      "e": "mousemove",
+      "x": 975,
+      "y": 346,
+      "sy": 400,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 11697,
+      "e": "mousemove",
+      "x": 1287,
+      "y": 346,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 11748,
+      "e": "mousemove",
+      "x": 1535,
+      "y": 346,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 11913,
+      "e": "mousemove",
+      "x": 1532,
+      "y": 346,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 11972,
+      "e": "mousemove",
+      "x": 1417,
+      "y": 371,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 12026,
+      "e": "mousemove",
+      "x": 1239,
+      "y": 465,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 12081,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 513,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 12136,
+      "e": "mousemove",
+      "x": 1271,
+      "y": 521,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 12193,
+      "e": "mousemove",
+      "x": 1338,
+      "y": 522,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 12289,
+      "e": "mousemove",
+      "x": 1340,
+      "y": 522,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 12344,
+      "e": "mousemove",
+      "x": 1341,
+      "y": 518,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 12401,
+      "e": "mousemove",
+      "x": 1348,
+      "y": 513,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 12457,
+      "e": "mousemove",
+      "x": 1363,
+      "y": 505,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 12513,
+      "e": "mousemove",
+      "x": 1365,
+      "y": 503,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 12572,
+      "e": "mousemove",
+      "x": 1371,
+      "y": 500,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 12627,
+      "e": "mousemove",
+      "x": 1376,
+      "y": 496,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 12995,
+      "e": "mousemove",
+      "x": 1376,
+      "y": 495,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 13151,
+      "e": "click",
+      "x": 1376,
+      "y": 494,
+      "sy": 400,
+      "z": "betslip",
+      "txt": "+ 10,00",
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 13491,
+      "e": "mousemove",
+      "x": 1376,
+      "y": 495,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 13544,
+      "e": "mousemove",
+      "x": 1353,
+      "y": 507,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 13597,
+      "e": "mousemove",
+      "x": 1318,
+      "y": 545,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 13651,
+      "e": "mousemove",
+      "x": 1260,
+      "y": 607,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 13706,
+      "e": "mousemove",
+      "x": 1212,
+      "y": 663,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 13760,
+      "e": "mousemove",
+      "x": 1203,
+      "y": 709,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 13815,
+      "e": "mousemove",
+      "x": 1213,
+      "y": 733,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 13869,
+      "e": "mousemove",
+      "x": 1224,
+      "y": 753,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 13936,
+      "e": "mousemove",
+      "x": 1225,
+      "y": 753,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 13987,
+      "e": "mousemove",
+      "x": 1234,
+      "y": 749,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 14039,
+      "e": "mousemove",
+      "x": 1246,
+      "y": 743,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 14101,
+      "e": "mousemove",
+      "x": 1247,
+      "y": 739,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 14155,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 736,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 14215,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 733,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 14276,
+      "e": "mousemove",
+      "x": 1238,
+      "y": 732,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 14345,
+      "e": "mousemove",
+      "x": 1236,
+      "y": 732,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 15496,
+      "e": "click",
+      "x": 1236,
+      "y": 732,
+      "sy": 400,
+      "z": "betslip",
+      "txt": "KLADI SE 10,00 €",
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 16222,
+      "e": "mousemove",
+      "x": 1238,
+      "y": 732,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 16294,
+      "e": "mousemove",
+      "x": 1245,
+      "y": 727,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 16347,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 719,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 16401,
+      "e": "mousemove",
+      "x": 1260,
+      "y": 685,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 16461,
+      "e": "mousemove",
+      "x": 1278,
+      "y": 665,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 16514,
+      "e": "mousemove",
+      "x": 1310,
+      "y": 641,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 16570,
+      "e": "mousemove",
+      "x": 1321,
+      "y": 629,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 16626,
+      "e": "mousemove",
+      "x": 1344,
+      "y": 616,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 16680,
+      "e": "mousemove",
+      "x": 1365,
+      "y": 624,
+      "sy": 400,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 16740,
+      "e": "mousemove",
+      "x": 1410,
+      "y": 670,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 16793,
+      "e": "mousemove",
+      "x": 1431,
+      "y": 721,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 16849,
+      "e": "mousemove",
+      "x": 1424,
+      "y": 755,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 16905,
+      "e": "mousemove",
+      "x": 1395,
+      "y": 773,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 16961,
+      "e": "mousemove",
+      "x": 1360,
+      "y": 784,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 17019,
+      "e": "mousemove",
+      "x": 1339,
+      "y": 788,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 17074,
+      "e": "mousemove",
+      "x": 1336,
+      "y": 788,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 17137,
+      "e": "mousemove",
+      "x": 1333,
+      "y": 787,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 17209,
+      "e": "mousemove",
+      "x": 1333,
+      "y": 783,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 17262,
+      "e": "mousemove",
+      "x": 1333,
+      "y": 779,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 17322,
+      "e": "mousemove",
+      "x": 1334,
+      "y": 778,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 18721,
+      "e": "mousemove",
+      "x": 1334,
+      "y": 777,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    },
+    {
+      "t": 18910,
+      "e": "session_stop",
+      "x": 0,
+      "y": 0,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/tenis/atp/us-open-2026-m/paul-t-alcaraz-c"
+    }
+  ]
+}

@@ -1,0 +1,1940 @@
+{
+  "session_id": "session_mtscqhwj_l6f1a82",
+  "label": "hesitant_checkout",
+  "session_started_at": "2026-09-08T07:32:22.435Z",
+  "metadata": {
+    "viewport_width": 1536,
+    "viewport_height": 826,
+    "device_pixel_ratio": 1.25,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "initial_url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer",
+    "hostname": "www.psk.hr",
+    "total_duration_ms": 18166,
+    "total_events": 192,
+    "account_creation_date": "2026-07-24T00:00:00Z",
+    "no_of_active_sessions": 9,
+    "no_bets_placed": 2
+  },
+  "events": [
+    {
+      "t": 0,
+      "e": "session_start",
+      "x": 0,
+      "y": 0,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2,
+      "e": "click",
+      "x": 1336,
+      "y": 788,
+      "sy": 0,
+      "z": "background",
+      "txt": "Stop",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 412,
+      "e": "mousemove",
+      "x": 1484,
+      "y": 196,
+      "sy": 0,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 462,
+      "e": "mousemove",
+      "x": 959,
+      "y": 141,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 535,
+      "e": "mousemove",
+      "x": 336,
+      "y": 311,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 597,
+      "e": "mousemove",
+      "x": 255,
+      "y": 459,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 674,
+      "e": "mousemove",
+      "x": 386,
+      "y": 509,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 742,
+      "e": "mousemove",
+      "x": 668,
+      "y": 418,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 806,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 100,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1026,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 500,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1141,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 600,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1280,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 900,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1498,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 1000,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2284,
+      "e": "mousemove",
+      "x": 649,
+      "y": 424,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2288,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 1500,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2342,
+      "e": "mousemove",
+      "x": 562,
+      "y": 443,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2394,
+      "e": "mousemove",
+      "x": 496,
+      "y": 454,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2450,
+      "e": "mousemove",
+      "x": 472,
+      "y": 457,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2504,
+      "e": "mousemove",
+      "x": 446,
+      "y": 461,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2566,
+      "e": "mousemove",
+      "x": 389,
+      "y": 465,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2620,
+      "e": "mousemove",
+      "x": 350,
+      "y": 473,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2676,
+      "e": "mousemove",
+      "x": 346,
+      "y": 489,
+      "sy": 1500,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2824,
+      "e": "mousemove",
+      "x": 378,
+      "y": 526,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2881,
+      "e": "mousemove",
+      "x": 847,
+      "y": 501,
+      "sy": 1500,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 2946,
+      "e": "mousemove",
+      "x": 835,
+      "y": 454,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3007,
+      "e": "mousemove",
+      "x": 702,
+      "y": 415,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3058,
+      "e": "mousemove",
+      "x": 572,
+      "y": 432,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3119,
+      "e": "mousemove",
+      "x": 481,
+      "y": 489,
+      "sy": 1500,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3179,
+      "e": "mousemove",
+      "x": 483,
+      "y": 539,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3230,
+      "e": "mousemove",
+      "x": 728,
+      "y": 579,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3282,
+      "e": "mousemove",
+      "x": 1027,
+      "y": 527,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3333,
+      "e": "mousemove",
+      "x": 1073,
+      "y": 471,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3387,
+      "e": "mousemove",
+      "x": 992,
+      "y": 445,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3441,
+      "e": "mousemove",
+      "x": 755,
+      "y": 517,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3502,
+      "e": "mousemove",
+      "x": 699,
+      "y": 592,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3574,
+      "e": "mousemove",
+      "x": 769,
+      "y": 581,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3626,
+      "e": "mousemove",
+      "x": 786,
+      "y": 563,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3689,
+      "e": "mousemove",
+      "x": 786,
+      "y": 559,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3742,
+      "e": "mousemove",
+      "x": 788,
+      "y": 552,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3796,
+      "e": "mousemove",
+      "x": 792,
+      "y": 543,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3847,
+      "e": "mousemove",
+      "x": 796,
+      "y": 534,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3897,
+      "e": "mousemove",
+      "x": 801,
+      "y": 524,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 3950,
+      "e": "mousemove",
+      "x": 805,
+      "y": 517,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 4159,
+      "e": "click",
+      "x": 807,
+      "y": 516,
+      "sy": 1500,
+      "z": "main-feed",
+      "txt": "tomorrow 00:15 BB",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 4380,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 4408,
+      "e": "page_view",
+      "x": 0,
+      "y": 0,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 6316,
+      "e": "mousemove",
+      "x": 807,
+      "y": 515,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 6378,
+      "e": "mousemove",
+      "x": 806,
+      "y": 511,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 6429,
+      "e": "mousemove",
+      "x": 803,
+      "y": 509,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 6481,
+      "e": "mousemove",
+      "x": 773,
+      "y": 497,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 6532,
+      "e": "mousemove",
+      "x": 708,
+      "y": 481,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 6583,
+      "e": "mousemove",
+      "x": 643,
+      "y": 472,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 6635,
+      "e": "mousemove",
+      "x": 580,
+      "y": 477,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 6696,
+      "e": "mousemove",
+      "x": 545,
+      "y": 504,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 6754,
+      "e": "mousemove",
+      "x": 575,
+      "y": 539,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 6976,
+      "e": "mousemove",
+      "x": 754,
+      "y": 397,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 7033,
+      "e": "mousemove",
+      "x": 575,
+      "y": 479,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 7090,
+      "e": "mousemove",
+      "x": 568,
+      "y": 575,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 7146,
+      "e": "mousemove",
+      "x": 617,
+      "y": 597,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 7203,
+      "e": "mousemove",
+      "x": 695,
+      "y": 573,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 7297,
+      "e": "mousemove",
+      "x": 724,
+      "y": 557,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 7353,
+      "e": "mousemove",
+      "x": 694,
+      "y": 580,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 7417,
+      "e": "mousemove",
+      "x": 686,
+      "y": 588,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 7477,
+      "e": "mousemove",
+      "x": 697,
+      "y": 593,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 7527,
+      "e": "mousemove",
+      "x": 725,
+      "y": 606,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 7579,
+      "e": "mousemove",
+      "x": 728,
+      "y": 613,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 7634,
+      "e": "mousemove",
+      "x": 726,
+      "y": 621,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 7699,
+      "e": "mousemove",
+      "x": 719,
+      "y": 633,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 8080,
+      "e": "mousemove",
+      "x": 715,
+      "y": 634,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 8535,
+      "e": "mousemove",
+      "x": 716,
+      "y": 633,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 8589,
+      "e": "mousemove",
+      "x": 728,
+      "y": 632,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 8643,
+      "e": "mousemove",
+      "x": 781,
+      "y": 613,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 8771,
+      "e": "mousemove",
+      "x": 1090,
+      "y": 438,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 8822,
+      "e": "mousemove",
+      "x": 1089,
+      "y": 377,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 8876,
+      "e": "mousemove",
+      "x": 1049,
+      "y": 311,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 8926,
+      "e": "mousemove",
+      "x": 1015,
+      "y": 292,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 8980,
+      "e": "mousemove",
+      "x": 981,
+      "y": 302,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 9041,
+      "e": "mousemove",
+      "x": 922,
+      "y": 397,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 9092,
+      "e": "mousemove",
+      "x": 980,
+      "y": 521,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 9149,
+      "e": "mousemove",
+      "x": 1363,
+      "y": 566,
+      "sy": 0,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 9204,
+      "e": "mousemove",
+      "x": 1531,
+      "y": 517,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 9256,
+      "e": "mousemove",
+      "x": 1510,
+      "y": 475,
+      "sy": 0,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 9307,
+      "e": "mousemove",
+      "x": 1476,
+      "y": 451,
+      "sy": 0,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 9361,
+      "e": "mousemove",
+      "x": 1423,
+      "y": 432,
+      "sy": 0,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 9428,
+      "e": "mousemove",
+      "x": 1407,
+      "y": 430,
+      "sy": 0,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 9495,
+      "e": "mousemove",
+      "x": 1402,
+      "y": 433,
+      "sy": 0,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 9569,
+      "e": "mousemove",
+      "x": 1400,
+      "y": 434,
+      "sy": 0,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 9610,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 100,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 9663,
+      "e": "mousemove",
+      "x": 1400,
+      "y": 436,
+      "sy": 200,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 9726,
+      "e": "mousemove",
+      "x": 1398,
+      "y": 440,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 9780,
+      "e": "mousemove",
+      "x": 1396,
+      "y": 443,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 9831,
+      "e": "mousemove",
+      "x": 1388,
+      "y": 453,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 9892,
+      "e": "mousemove",
+      "x": 1344,
+      "y": 524,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 9943,
+      "e": "mousemove",
+      "x": 1324,
+      "y": 560,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 10059,
+      "e": "mousemove",
+      "x": 1320,
+      "y": 568,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 10119,
+      "e": "mousemove",
+      "x": 1338,
+      "y": 556,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 10173,
+      "e": "mousemove",
+      "x": 1351,
+      "y": 537,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 10228,
+      "e": "mousemove",
+      "x": 1352,
+      "y": 521,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 10283,
+      "e": "mousemove",
+      "x": 1327,
+      "y": 515,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 10338,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 529,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 10393,
+      "e": "mousemove",
+      "x": 1224,
+      "y": 569,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 10449,
+      "e": "mousemove",
+      "x": 1280,
+      "y": 605,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 10505,
+      "e": "mousemove",
+      "x": 1478,
+      "y": 577,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 10567,
+      "e": "mousemove",
+      "x": 1535,
+      "y": 527,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 10622,
+      "e": "mousemove",
+      "x": 1529,
+      "y": 513,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 10675,
+      "e": "mousemove",
+      "x": 1507,
+      "y": 510,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 10730,
+      "e": "mousemove",
+      "x": 1490,
+      "y": 512,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 10780,
+      "e": "mousemove",
+      "x": 1452,
+      "y": 525,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 10833,
+      "e": "mousemove",
+      "x": 1435,
+      "y": 534,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 10889,
+      "e": "mousemove",
+      "x": 1431,
+      "y": 537,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 10962,
+      "e": "mousemove",
+      "x": 1426,
+      "y": 538,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 11016,
+      "e": "mousemove",
+      "x": 1422,
+      "y": 523,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 11073,
+      "e": "mousemove",
+      "x": 1423,
+      "y": 489,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 11131,
+      "e": "mousemove",
+      "x": 1421,
+      "y": 485,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 11192,
+      "e": "mousemove",
+      "x": 1373,
+      "y": 480,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 11252,
+      "e": "mousemove",
+      "x": 1327,
+      "y": 480,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 11307,
+      "e": "mousemove",
+      "x": 1327,
+      "y": 478,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 11374,
+      "e": "mousemove",
+      "x": 1331,
+      "y": 473,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 11434,
+      "e": "mousemove",
+      "x": 1336,
+      "y": 471,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 11555,
+      "e": "mousemove",
+      "x": 1334,
+      "y": 470,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 11610,
+      "e": "mousemove",
+      "x": 1322,
+      "y": 471,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 11666,
+      "e": "mousemove",
+      "x": 1313,
+      "y": 471,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 11722,
+      "e": "mousemove",
+      "x": 1304,
+      "y": 471,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 11780,
+      "e": "mousemove",
+      "x": 1297,
+      "y": 471,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 11833,
+      "e": "mousemove",
+      "x": 1284,
+      "y": 471,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 11894,
+      "e": "mousemove",
+      "x": 1270,
+      "y": 472,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 11949,
+      "e": "mousemove",
+      "x": 1266,
+      "y": 472,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 12010,
+      "e": "mousemove",
+      "x": 1262,
+      "y": 472,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 12077,
+      "e": "mousemove",
+      "x": 1254,
+      "y": 472,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 12715,
+      "e": "click",
+      "x": 1254,
+      "y": 472,
+      "sy": 300,
+      "z": "betslip",
+      "txt": "+ 3,00",
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 13011,
+      "e": "mousemove",
+      "x": 1252,
+      "y": 472,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 13065,
+      "e": "mousemove",
+      "x": 1240,
+      "y": 491,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 13120,
+      "e": "mousemove",
+      "x": 1202,
+      "y": 553,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 13174,
+      "e": "mousemove",
+      "x": 1180,
+      "y": 610,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 13228,
+      "e": "mousemove",
+      "x": 1214,
+      "y": 649,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 13283,
+      "e": "mousemove",
+      "x": 1328,
+      "y": 640,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 13337,
+      "e": "mousemove",
+      "x": 1416,
+      "y": 586,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 13388,
+      "e": "mousemove",
+      "x": 1424,
+      "y": 541,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 13441,
+      "e": "mousemove",
+      "x": 1405,
+      "y": 513,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 13494,
+      "e": "mousemove",
+      "x": 1395,
+      "y": 505,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 13549,
+      "e": "mousemove",
+      "x": 1376,
+      "y": 493,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 13604,
+      "e": "mousemove",
+      "x": 1372,
+      "y": 482,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 13658,
+      "e": "mousemove",
+      "x": 1372,
+      "y": 473,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 13719,
+      "e": "mousemove",
+      "x": 1376,
+      "y": 468,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 13919,
+      "e": "click",
+      "x": 1379,
+      "y": 465,
+      "sy": 300,
+      "z": "betslip",
+      "txt": "+ 10,00",
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 13998,
+      "e": "mousemove",
+      "x": 1378,
+      "y": 466,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 14052,
+      "e": "mousemove",
+      "x": 1355,
+      "y": 495,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 14107,
+      "e": "mousemove",
+      "x": 1270,
+      "y": 587,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 14161,
+      "e": "mousemove",
+      "x": 1243,
+      "y": 659,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 14216,
+      "e": "mousemove",
+      "x": 1313,
+      "y": 659,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 14271,
+      "e": "mousemove",
+      "x": 1460,
+      "y": 554,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 14325,
+      "e": "mousemove",
+      "x": 1469,
+      "y": 493,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 14386,
+      "e": "mousemove",
+      "x": 1405,
+      "y": 460,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 14446,
+      "e": "mousemove",
+      "x": 1344,
+      "y": 475,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 14501,
+      "e": "mousemove",
+      "x": 1291,
+      "y": 541,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 14555,
+      "e": "mousemove",
+      "x": 1305,
+      "y": 557,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 14616,
+      "e": "mousemove",
+      "x": 1356,
+      "y": 525,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 14674,
+      "e": "mousemove",
+      "x": 1373,
+      "y": 489,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 14725,
+      "e": "mousemove",
+      "x": 1363,
+      "y": 479,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 14780,
+      "e": "mousemove",
+      "x": 1323,
+      "y": 485,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 14840,
+      "e": "mousemove",
+      "x": 1286,
+      "y": 509,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 14896,
+      "e": "mousemove",
+      "x": 1278,
+      "y": 565,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 14947,
+      "e": "mousemove",
+      "x": 1337,
+      "y": 581,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 15001,
+      "e": "mousemove",
+      "x": 1364,
+      "y": 576,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 15052,
+      "e": "mousemove",
+      "x": 1361,
+      "y": 571,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 15107,
+      "e": "mousemove",
+      "x": 1268,
+      "y": 603,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 15168,
+      "e": "mousemove",
+      "x": 1143,
+      "y": 690,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 15222,
+      "e": "mousemove",
+      "x": 1136,
+      "y": 735,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 15276,
+      "e": "mousemove",
+      "x": 1200,
+      "y": 745,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 15331,
+      "e": "mousemove",
+      "x": 1277,
+      "y": 713,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 15386,
+      "e": "mousemove",
+      "x": 1273,
+      "y": 691,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 15447,
+      "e": "mousemove",
+      "x": 1241,
+      "y": 687,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 15501,
+      "e": "mousemove",
+      "x": 1218,
+      "y": 709,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 15555,
+      "e": "mousemove",
+      "x": 1217,
+      "y": 717,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 15610,
+      "e": "mousemove",
+      "x": 1248,
+      "y": 701,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 15670,
+      "e": "mousemove",
+      "x": 1256,
+      "y": 689,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 15721,
+      "e": "mousemove",
+      "x": 1254,
+      "y": 689,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 15776,
+      "e": "mousemove",
+      "x": 1245,
+      "y": 699,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 16066,
+      "e": "mousemove",
+      "x": 1245,
+      "y": 698,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 16237,
+      "e": "click",
+      "x": 1245,
+      "y": 697,
+      "sy": 300,
+      "z": "betslip",
+      "txt": "BET 10,00 \u20ac",
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 16526,
+      "e": "mousemove",
+      "x": 1245,
+      "y": 698,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 16579,
+      "e": "mousemove",
+      "x": 1260,
+      "y": 713,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 16634,
+      "e": "mousemove",
+      "x": 1316,
+      "y": 747,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 16695,
+      "e": "mousemove",
+      "x": 1337,
+      "y": 773,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 16749,
+      "e": "mousemove",
+      "x": 1340,
+      "y": 780,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 16803,
+      "e": "mousemove",
+      "x": 1340,
+      "y": 791,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 16911,
+      "e": "mousemove",
+      "x": 1340,
+      "y": 793,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 16974,
+      "e": "mousemove",
+      "x": 1340,
+      "y": 788,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 17083,
+      "e": "mousemove",
+      "x": 1340,
+      "y": 784,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 17137,
+      "e": "mousemove",
+      "x": 1341,
+      "y": 777,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 17195,
+      "e": "mousemove",
+      "x": 1342,
+      "y": 776,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    },
+    {
+      "t": 17375,
+      "e": "session_stop",
+      "x": 0,
+      "y": 0,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/nogomet/engleska-1/engleska-2/southampton-swansea?tab=offer"
+    }
+  ]
+}

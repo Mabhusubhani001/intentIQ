@@ -1,0 +1,26 @@
+Session Quality and Session-to-Action Conversion
+How might we turn more sessions into confident, informed actions and make every session more valuable to the user without pushing anyone to do more than they want to?
+The problem
+>Users open our products far more often than they act in them. A large share of sessions end in browsing.
+>Discovery friction — generic layouts look the same to a first-time visitor and a ten-year specialist.
+>Drop-off at the final step — users who reach the point of confirming, our strongest intent signal, still leave.
+>Not a traffic problem. Users already come.
+
+Where we expect innovation
+>Content discovery and relevance
+>Deeper engagement across categories, content and features
+>Real-time in-session guidance
+>Converting intent at the final step
+>Better ways to measure session quality itself
+
+Metrics
+Value per Session
+Session Conversion Rate
+Actions per Session
+Final-step Conversion
+Sessions per User
+Time to First Action
+Outcome: more sessions ending in a completed action, more value per active user, and uplift that survives into D30/D90 retention. Out of scope: acquisition and marketing before the session, pricing and commercial terms, registration and identity verification. Baselines shared with shortlisted teams after NDA.
+
+Guardrail
+Uplift must come from relevance and reduced friction, never pressure. No dark patterns, no urgency mechanics, nothing conflicting with responsible gambling limits or self-exclusion. Sessions showing harmful-play indicators must not rise. Judged.

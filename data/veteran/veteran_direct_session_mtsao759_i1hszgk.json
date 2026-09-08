@@ -1,0 +1,1930 @@
+{
+  "session_id": "session_mtsao759_i1hszgk",
+  "label": "veteran_direct",
+  "session_started_at": "2026-09-08T06:34:35.949Z",
+  "metadata": {
+    "viewport_width": 1536,
+    "viewport_height": 826,
+    "device_pixel_ratio": 1.25,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "initial_url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer",
+    "hostname": "www.psk.hr",
+    "total_duration_ms": 22079,
+    "total_events": 191,
+    "account_creation_date": "2025-02-22T00:00:00Z",
+    "no_of_active_sessions": 245,
+    "no_bets_placed": 287
+  },
+  "events": [
+    {
+      "t": 0,
+      "e": "session_start",
+      "x": 0,
+      "y": 0,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 6,
+      "e": "click",
+      "x": 1332,
+      "y": 773,
+      "sy": 0,
+      "z": "background",
+      "txt": "Stop",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 828,
+      "e": "mousemove",
+      "x": 700,
+      "y": 160,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 882,
+      "e": "mousemove",
+      "x": 629,
+      "y": 129,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 938,
+      "e": "mousemove",
+      "x": 645,
+      "y": 141,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1160,
+      "e": "mousemove",
+      "x": 646,
+      "y": 140,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1299,
+      "e": "click",
+      "x": 646,
+      "y": 140,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": "1H",
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1302,
+      "e": "mousemove",
+      "x": 646,
+      "y": 141,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/"
+    },
+    {
+      "t": 1562,
+      "e": "mousemove",
+      "x": 646,
+      "y": 142,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 1576,
+      "e": "page_view",
+      "x": 0,
+      "y": 0,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 1626,
+      "e": "mousemove",
+      "x": 646,
+      "y": 143,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 1726,
+      "e": "mousemove",
+      "x": 646,
+      "y": 144,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 1780,
+      "e": "mousemove",
+      "x": 649,
+      "y": 162,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 1953,
+      "e": "mousemove",
+      "x": 643,
+      "y": 698,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 2005,
+      "e": "mousemove",
+      "x": 653,
+      "y": 644,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 2060,
+      "e": "mousemove",
+      "x": 660,
+      "y": 594,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 2115,
+      "e": "mousemove",
+      "x": 663,
+      "y": 572,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 2169,
+      "e": "mousemove",
+      "x": 678,
+      "y": 541,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 2230,
+      "e": "mousemove",
+      "x": 689,
+      "y": 521,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 2290,
+      "e": "mousemove",
+      "x": 689,
+      "y": 517,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 2352,
+      "e": "mousemove",
+      "x": 691,
+      "y": 512,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 2428,
+      "e": "mousemove",
+      "x": 691,
+      "y": 505,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 2501,
+      "e": "mousemove",
+      "x": 691,
+      "y": 503,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 2563,
+      "e": "mousemove",
+      "x": 691,
+      "y": 496,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 2673,
+      "e": "mousemove",
+      "x": 691,
+      "y": 494,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 2736,
+      "e": "mousemove",
+      "x": 688,
+      "y": 490,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 3415,
+      "e": "mousemove",
+      "x": 683,
+      "y": 487,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 3474,
+      "e": "mousemove",
+      "x": 608,
+      "y": 458,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 3526,
+      "e": "mousemove",
+      "x": 485,
+      "y": 413,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 3578,
+      "e": "mousemove",
+      "x": 438,
+      "y": 413,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 3638,
+      "e": "mousemove",
+      "x": 427,
+      "y": 431,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 3696,
+      "e": "mousemove",
+      "x": 468,
+      "y": 454,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 3747,
+      "e": "mousemove",
+      "x": 640,
+      "y": 452,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 3805,
+      "e": "mousemove",
+      "x": 683,
+      "y": 440,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 3894,
+      "e": "mousemove",
+      "x": 681,
+      "y": 435,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 4672,
+      "e": "mousemove",
+      "x": 679,
+      "y": 433,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 4736,
+      "e": "mousemove",
+      "x": 650,
+      "y": 427,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 4790,
+      "e": "mousemove",
+      "x": 560,
+      "y": 408,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 4845,
+      "e": "mousemove",
+      "x": 467,
+      "y": 376,
+      "sy": 0,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 4921,
+      "e": "mousemove",
+      "x": 336,
+      "y": 314,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 4978,
+      "e": "mousemove",
+      "x": 320,
+      "y": 306,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 5036,
+      "e": "mousemove",
+      "x": 345,
+      "y": 301,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 5103,
+      "e": "mousemove",
+      "x": 456,
+      "y": 325,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 5171,
+      "e": "mousemove",
+      "x": 518,
+      "y": 432,
+      "sy": 0,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 5287,
+      "e": "mousemove",
+      "x": 516,
+      "y": 437,
+      "sy": 300,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 5291,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 5374,
+      "e": "mousemove",
+      "x": 516,
+      "y": 435,
+      "sy": 500,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 5476,
+      "e": "mousemove",
+      "x": 515,
+      "y": 435,
+      "sy": 500,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 5765,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 642,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 6026,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 942,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 6137,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 938,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 6254,
+      "e": "mousemove",
+      "x": 514,
+      "y": 435,
+      "sy": 1137,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 6332,
+      "e": "mousemove",
+      "x": 512,
+      "y": 435,
+      "sy": 1137,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 6484,
+      "e": "mousemove",
+      "x": 511,
+      "y": 435,
+      "sy": 1137,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 6551,
+      "e": "mousemove",
+      "x": 496,
+      "y": 428,
+      "sy": 1137,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 6603,
+      "e": "mousemove",
+      "x": 430,
+      "y": 359,
+      "sy": 1137,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 6656,
+      "e": "mousemove",
+      "x": 372,
+      "y": 309,
+      "sy": 1137,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 6699,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 1134,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 6729,
+      "e": "mousemove",
+      "x": 391,
+      "y": 282,
+      "sy": 1134,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 6780,
+      "e": "mousemove",
+      "x": 418,
+      "y": 265,
+      "sy": 1134,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 6810,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 1132,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 6841,
+      "e": "mousemove",
+      "x": 428,
+      "y": 260,
+      "sy": 1132,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 6895,
+      "e": "mousemove",
+      "x": 431,
+      "y": 268,
+      "sy": 1132,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 6961,
+      "e": "mousemove",
+      "x": 398,
+      "y": 339,
+      "sy": 1132,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 7015,
+      "e": "mousemove",
+      "x": 400,
+      "y": 341,
+      "sy": 1132,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 7065,
+      "e": "mousemove",
+      "x": 492,
+      "y": 340,
+      "sy": 1132,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 7121,
+      "e": "mousemove",
+      "x": 779,
+      "y": 327,
+      "sy": 1132,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 7177,
+      "e": "mousemove",
+      "x": 816,
+      "y": 336,
+      "sy": 1132,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 7232,
+      "e": "mousemove",
+      "x": 766,
+      "y": 387,
+      "sy": 1132,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 7305,
+      "e": "mousemove",
+      "x": 757,
+      "y": 401,
+      "sy": 1132,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 7363,
+      "e": "mousemove",
+      "x": 773,
+      "y": 392,
+      "sy": 1132,
+      "z": "top-nav",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 7416,
+      "e": "mousemove",
+      "x": 774,
+      "y": 378,
+      "sy": 1132,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 7467,
+      "e": "mousemove",
+      "x": 759,
+      "y": 361,
+      "sy": 1132,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 7521,
+      "e": "mousemove",
+      "x": 733,
+      "y": 354,
+      "sy": 1132,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 7577,
+      "e": "mousemove",
+      "x": 732,
+      "y": 358,
+      "sy": 1132,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 7632,
+      "e": "mousemove",
+      "x": 791,
+      "y": 366,
+      "sy": 1132,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 7687,
+      "e": "mousemove",
+      "x": 845,
+      "y": 357,
+      "sy": 1132,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 7751,
+      "e": "mousemove",
+      "x": 835,
+      "y": 341,
+      "sy": 1132,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 7806,
+      "e": "mousemove",
+      "x": 660,
+      "y": 289,
+      "sy": 1132,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 8064,
+      "e": "mousemove",
+      "x": 600,
+      "y": 275,
+      "sy": 1132,
+      "z": "left-sidebar",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 8352,
+      "e": "click",
+      "x": 599,
+      "y": 275,
+      "sy": 1132,
+      "z": "left-sidebar",
+      "txt": "2. \u010detvrtina",
+      "url": "https://www.psk.hr/oklade?filter=1h"
+    },
+    {
+      "t": 8485,
+      "e": "page_view",
+      "x": 0,
+      "y": 0,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 8491,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 0,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 8975,
+      "e": "mousemove",
+      "x": 599,
+      "y": 276,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 9029,
+      "e": "mousemove",
+      "x": 606,
+      "y": 292,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 9080,
+      "e": "mousemove",
+      "x": 625,
+      "y": 325,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 9139,
+      "e": "mousemove",
+      "x": 666,
+      "y": 453,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 9193,
+      "e": "mousemove",
+      "x": 661,
+      "y": 509,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 9254,
+      "e": "mousemove",
+      "x": 650,
+      "y": 531,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 9315,
+      "e": "mousemove",
+      "x": 643,
+      "y": 533,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 9393,
+      "e": "mousemove",
+      "x": 644,
+      "y": 511,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 9475,
+      "e": "mousemove",
+      "x": 645,
+      "y": 499,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 9548,
+      "e": "mousemove",
+      "x": 646,
+      "y": 498,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 9605,
+      "e": "mousemove",
+      "x": 647,
+      "y": 498,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 9696,
+      "e": "mousemove",
+      "x": 648,
+      "y": 496,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 9759,
+      "e": "mousemove",
+      "x": 649,
+      "y": 491,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 9811,
+      "e": "mousemove",
+      "x": 647,
+      "y": 481,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 9884,
+      "e": "mousemove",
+      "x": 644,
+      "y": 476,
+      "sy": 0,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 10572,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 100,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 10805,
+      "e": "mousemove",
+      "x": 644,
+      "y": 475,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 11059,
+      "e": "mousemove",
+      "x": 643,
+      "y": 474,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 11119,
+      "e": "mousemove",
+      "x": 630,
+      "y": 473,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 11177,
+      "e": "mousemove",
+      "x": 525,
+      "y": 424,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 11235,
+      "e": "mousemove",
+      "x": 456,
+      "y": 362,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 11287,
+      "e": "mousemove",
+      "x": 435,
+      "y": 306,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 11347,
+      "e": "mousemove",
+      "x": 420,
+      "y": 273,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 11400,
+      "e": "mousemove",
+      "x": 419,
+      "y": 264,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 11456,
+      "e": "mousemove",
+      "x": 424,
+      "y": 255,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 11553,
+      "e": "mousemove",
+      "x": 423,
+      "y": 254,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 11609,
+      "e": "mousemove",
+      "x": 396,
+      "y": 248,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 12545,
+      "e": "mousemove",
+      "x": 389,
+      "y": 247,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 13260,
+      "e": "mousemove",
+      "x": 390,
+      "y": 247,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 13360,
+      "e": "mousemove",
+      "x": 391,
+      "y": 249,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 13840,
+      "e": "mousemove",
+      "x": 393,
+      "y": 249,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 13890,
+      "e": "mousemove",
+      "x": 428,
+      "y": 257,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 13941,
+      "e": "mousemove",
+      "x": 669,
+      "y": 269,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 13999,
+      "e": "mousemove",
+      "x": 1385,
+      "y": 317,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 14049,
+      "e": "mousemove",
+      "x": 1535,
+      "y": 718,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 14202,
+      "e": "mousemove",
+      "x": 1244,
+      "y": 819,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 14257,
+      "e": "mousemove",
+      "x": 1141,
+      "y": 780,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 14308,
+      "e": "mousemove",
+      "x": 1140,
+      "y": 775,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 14361,
+      "e": "mousemove",
+      "x": 1151,
+      "y": 751,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 14486,
+      "e": "mousemove",
+      "x": 1172,
+      "y": 728,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 14615,
+      "e": "mousemove",
+      "x": 1205,
+      "y": 665,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 14737,
+      "e": "mousemove",
+      "x": 889,
+      "y": 586,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 14853,
+      "e": "mousemove",
+      "x": 808,
+      "y": 570,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 14975,
+      "e": "mousemove",
+      "x": 892,
+      "y": 496,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 15088,
+      "e": "mousemove",
+      "x": 965,
+      "y": 423,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 15210,
+      "e": "mousemove",
+      "x": 1151,
+      "y": 339,
+      "sy": 300,
+      "z": "main-feed",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 15330,
+      "e": "mousemove",
+      "x": 1332,
+      "y": 438,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 15454,
+      "e": "mousemove",
+      "x": 1324,
+      "y": 513,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 15585,
+      "e": "mousemove",
+      "x": 1322,
+      "y": 510,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 15699,
+      "e": "mousemove",
+      "x": 1287,
+      "y": 631,
+      "sy": 300,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 15832,
+      "e": "mousemove",
+      "x": 1229,
+      "y": 711,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 15959,
+      "e": "mousemove",
+      "x": 1228,
+      "y": 789,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 16068,
+      "e": "mousemove",
+      "x": 1243,
+      "y": 781,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 16205,
+      "e": "mousemove",
+      "x": 1243,
+      "y": 782,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 16285,
+      "e": "mousemove",
+      "x": 1239,
+      "y": 757,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 16347,
+      "e": "mousemove",
+      "x": 1255,
+      "y": 655,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 16400,
+      "e": "mousemove",
+      "x": 1288,
+      "y": 607,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 16451,
+      "e": "mousemove",
+      "x": 1316,
+      "y": 588,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 16514,
+      "e": "mousemove",
+      "x": 1321,
+      "y": 589,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 16565,
+      "e": "mousemove",
+      "x": 1322,
+      "y": 591,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 16631,
+      "e": "mousemove",
+      "x": 1328,
+      "y": 594,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 16689,
+      "e": "mousemove",
+      "x": 1355,
+      "y": 592,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 16744,
+      "e": "mousemove",
+      "x": 1368,
+      "y": 596,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 16805,
+      "e": "mousemove",
+      "x": 1354,
+      "y": 611,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 16860,
+      "e": "mousemove",
+      "x": 1321,
+      "y": 621,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 16914,
+      "e": "mousemove",
+      "x": 1316,
+      "y": 622,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 16990,
+      "e": "mousemove",
+      "x": 1312,
+      "y": 623,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 17065,
+      "e": "mousemove",
+      "x": 1312,
+      "y": 621,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 17161,
+      "e": "mousemove",
+      "x": 1312,
+      "y": 620,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 17305,
+      "e": "click",
+      "x": 1312,
+      "y": 620,
+      "sy": 300,
+      "z": "betslip",
+      "txt": "+ 5,00",
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 17427,
+      "e": "mousemove",
+      "x": 1312,
+      "y": 619,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 17482,
+      "e": "mousemove",
+      "x": 1313,
+      "y": 585,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 17541,
+      "e": "mousemove",
+      "x": 1317,
+      "y": 531,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 17598,
+      "e": "mousemove",
+      "x": 1319,
+      "y": 515,
+      "sy": 300,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 17644,
+      "e": "scroll",
+      "x": 0,
+      "y": 0,
+      "sy": 400,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 17701,
+      "e": "mousemove",
+      "x": 1319,
+      "y": 514,
+      "sy": 700,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 17787,
+      "e": "mousemove",
+      "x": 1320,
+      "y": 513,
+      "sy": 800,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 17841,
+      "e": "mousemove",
+      "x": 1324,
+      "y": 519,
+      "sy": 800,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 17906,
+      "e": "mousemove",
+      "x": 1316,
+      "y": 597,
+      "sy": 800,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 17961,
+      "e": "mousemove",
+      "x": 1277,
+      "y": 716,
+      "sy": 800,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 18012,
+      "e": "mousemove",
+      "x": 1252,
+      "y": 745,
+      "sy": 800,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 18089,
+      "e": "mousemove",
+      "x": 1239,
+      "y": 749,
+      "sy": 800,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 18145,
+      "e": "mousemove",
+      "x": 1226,
+      "y": 740,
+      "sy": 800,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 18195,
+      "e": "mousemove",
+      "x": 1226,
+      "y": 710,
+      "sy": 800,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 18254,
+      "e": "mousemove",
+      "x": 1232,
+      "y": 687,
+      "sy": 800,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 18308,
+      "e": "mousemove",
+      "x": 1232,
+      "y": 679,
+      "sy": 800,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 18358,
+      "e": "mousemove",
+      "x": 1233,
+      "y": 669,
+      "sy": 800,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 18435,
+      "e": "mousemove",
+      "x": 1235,
+      "y": 667,
+      "sy": 800,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 18489,
+      "e": "mousemove",
+      "x": 1232,
+      "y": 682,
+      "sy": 800,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 18556,
+      "e": "mousemove",
+      "x": 1232,
+      "y": 690,
+      "sy": 800,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 19203,
+      "e": "click",
+      "x": 1232,
+      "y": 693,
+      "sy": 800,
+      "z": "betslip",
+      "txt": "BET 5,00 \u20ac",
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 19821,
+      "e": "mousemove",
+      "x": 1233,
+      "y": 693,
+      "sy": 800,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 19876,
+      "e": "mousemove",
+      "x": 1237,
+      "y": 692,
+      "sy": 800,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 19933,
+      "e": "mousemove",
+      "x": 1273,
+      "y": 685,
+      "sy": 800,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 19983,
+      "e": "mousemove",
+      "x": 1369,
+      "y": 685,
+      "sy": 800,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 20035,
+      "e": "mousemove",
+      "x": 1437,
+      "y": 682,
+      "sy": 800,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 20091,
+      "e": "mousemove",
+      "x": 1495,
+      "y": 674,
+      "sy": 800,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 20144,
+      "e": "mousemove",
+      "x": 1513,
+      "y": 699,
+      "sy": 800,
+      "z": "betslip",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 20204,
+      "e": "mousemove",
+      "x": 1490,
+      "y": 747,
+      "sy": 800,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 20259,
+      "e": "mousemove",
+      "x": 1438,
+      "y": 769,
+      "sy": 800,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 20313,
+      "e": "mousemove",
+      "x": 1392,
+      "y": 782,
+      "sy": 800,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 20380,
+      "e": "mousemove",
+      "x": 1378,
+      "y": 785,
+      "sy": 800,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 20434,
+      "e": "mousemove",
+      "x": 1366,
+      "y": 785,
+      "sy": 800,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 20489,
+      "e": "mousemove",
+      "x": 1362,
+      "y": 785,
+      "sy": 800,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 20562,
+      "e": "mousemove",
+      "x": 1359,
+      "y": 784,
+      "sy": 800,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 20635,
+      "e": "mousemove",
+      "x": 1355,
+      "y": 782,
+      "sy": 800,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 21011,
+      "e": "mousemove",
+      "x": 1355,
+      "y": 781,
+      "sy": 800,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    },
+    {
+      "t": 21136,
+      "e": "session_stop",
+      "x": 0,
+      "y": 0,
+      "sy": 800,
+      "z": "background",
+      "txt": null,
+      "url": "https://www.psk.hr/oklade/kosarka/meunarodne/bskt-cup-international-m/dockers-united-riverport-team?filter=live&tab=offer"
+    }
+  ]
+}
